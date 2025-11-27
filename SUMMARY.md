@@ -15,6 +15,7 @@
   * [Videobellen](medewerkers/videobellen/README.md)
     * [Waar vind ik de videolink voor online consult?](medewerkers/videobellen/waar-vind-ik-de-videolink-voor-online-consult.md)
     * [Informatie over videobellen](medewerkers/videobellen/informatie-over-videobellen.md)
+    * [Informatie Juvoly](medewerkers/videobellen/informatie-juvoly.md)
   * [Over ZekerArbo](medewerkers/over-zekerarbo/README.md)
     * [Wat doet ZekerArbo?](medewerkers/over-zekerarbo/wat-doet-zekerarbo.md)
   * [Verzuim](medewerkers/verzuim/README.md)
