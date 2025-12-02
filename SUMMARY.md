@@ -12,6 +12,7 @@
   * [Gebruik portaal](medewerkers/gebruik-portaal/README.md)
     * [Inzien terugkoppeling bedrijfsarts of POB](medewerkers/gebruik-portaal/inzien-terugkoppeling-bedrijfsarts-of-pob.md)
     * [Afspraken inzien](medewerkers/gebruik-portaal/afspraken-inzien.md)
+    * [Problemen met het portaal? (Inloggen, gegevens)](medewerkers/gebruik-portaal/problemen-met-het-portaal-inloggen-gegevens.md)
   * [Videobellen](medewerkers/videobellen/README.md)
     * [Waar vind ik de videolink voor online consult?](medewerkers/videobellen/waar-vind-ik-de-videolink-voor-online-consult.md)
     * [Informatie over videobellen](medewerkers/videobellen/informatie-over-videobellen.md)
