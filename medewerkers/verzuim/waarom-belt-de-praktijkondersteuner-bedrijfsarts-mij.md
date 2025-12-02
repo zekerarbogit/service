@@ -1,6 +1,24 @@
 # Waarom belt de praktijkondersteuner bedrijfsarts mij
 
-Het kan zijn dat jij en je werkgever een ander antwoord hebben ingevuld. Om snel duidelijkheid te krijgen wat de reden is dat de antwoorden niet overeenkomen belt de praktijkondersteuner bedrijfsarts je. Het gesprek wat de praktijkondersteuner bedrijfsarts met je heeft, heet het triagegesprek.  Een simpele, snelle manier om meteen een goede inschatting te maken of het verzuim kot of lang gaat duren. Geen lange intake, maar kort en krachtig: wat is de situatie, wat is er nodig? Binnen 15 minuten hebben we de juiste informatie en weten we of er meer hulp nodig is.  We houden het lekker simpel, zodat er geen ruis ontstaat over wat er gebeurt.
+Heb je een afspraak voor een telefonisch gesprek met de praktijkondersteuner bedrijfsarts (POB)? Dat doen we om even kort te overleggen.
+
+De reden is vaak dat de antwoorden die jij hebt ingevuld bij je ziekmelding, net iets anders zijn dan wat je werkgever heeft ingevuld. Om snel duidelijkheid te krijgen en misverstanden te voorkomen, bellen we je even op.
+
+**Het triagegesprek**&#x20;
+
+Dit gesprek noemen we een triagegesprek. Maak je geen zorgen: het is geen lange of ingewikkelde intake, maar een kort en krachtig gesprek van ongeveer 15 minuten.
+
+**Wat bespreken we?**&#x20;
+
+We houden het simpel en doelgericht:
+
+* Wat is de situatie?
+* Wat heb je nodig?
+* Verwachten we dat het verzuim kort of lang gaat duren?
+
+Zo weten we direct of er meer hulp nodig is en voorkomen we ruis over wat er nu precies gaat gebeuren.
+
+
 
 
 
