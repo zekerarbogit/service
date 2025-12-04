@@ -19,19 +19,14 @@ description: >-
 6. Ga terug naar het scherm, plak de code en klik op Verzenden.
 7. Vul twee keer een nieuw wachtwoord in en klik op Wachtwoord aanpassen.
 8. Log nu in met je e-mailadres en je nieuwe wachtwoord.
-9. Ter beveiliging ontvang je direct een code op je telefoon (SMS). Vul deze in en klik op Inloggen.
+9. Ter beveiliging wordt er nu om een code gevraagd. Afhankelijk van je instellingen doe je het volgende:
+   * Vul de code in uit je Authenticator app.
+   * Of vul de code in die je per SMS ontvangt.
+10. Klik daarna op Inloggen.
 
 ***
 
 Lukt het niet? Krijg je geen SMS-code binnen bij stap 9? Dan staat er misschien een oud 06-nummer in ons systeem. Je werkgever kan dit voor je aanpassen.
-
-
-
-
-
-
-
-> _Medewerkers, wachtwoord vergeten, wachtwoord herstellen_
 
 <details>
 
@@ -73,12 +68,15 @@ Lukt het niet? Krijg je geen SMS-code binnen bij stap 9? Dan staat er misschien 
 
 ![9](https://export.supademo.com/renders/trkklawxvl/out.png)
 
-#### 10. Je ontvangt direct een code op je telefoon, vul deze in en druk op 'inloggen'
+#### 10. Ter beveiliging wordt er nu om een code gevraagd. Afhankelijk van je instellingen doe je het volgende:
+
+* Vul de code in uit je Authenticator app.
+* Of vul de code in die je per SMS ontvangt.
 
 ![10](https://export.supademo.com/renders/7yg5c95c4p/out.png)
 
-#### 11. Op zoek naar meer hulp?
 
-![11](https://export.supademo.com/renders/rc75boxr5t/out.png)
+
+
 
 </details>
