@@ -24,4 +24,4 @@ description: >-
 
 Je hebt de tweestapsverificatie (2FA) nu succesvol ingesteld!
 
-## [Bekijk hier een interactieve video demo!](https://app.supademo.com/demo/cmirb6phy00m6z90i8o3ro6b1?utm_source=link)
+#### [Bekijk hier een interactieve video demo!](https://app.supademo.com/demo/cmirb6phy00m6z90i8o3ro6b1?utm_source=link)
