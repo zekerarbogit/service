@@ -5,7 +5,7 @@ description: >-
   je Android-telefoon te installeren.
 ---
 
-# Authenticator app installeren Android
+# Authenticator app installeren en instellen Android
 
 #### Stappenplan
 
@@ -19,8 +19,12 @@ description: >-
 6. Kies voor de optie Een QR-code scannen.
    * _Soms moet je de app eerst nog toestemming geven om je camera te gebruiken. Klik dan op 'Toestaan'._
 7. Scan met je telefoon de QR-code die op je computerscherm bij Mijn ZekerArbo wordt getoond.
-8. De app toont nu een 6-cijferige code die elke 30 seconden verandert.
+8. Na het scannen zie je de naam 'Dossier.nu' in de app staan. Tik hierop.
+9. Je ziet nu de 6-cijferige code verschijnen. Deze code wisselt elke 30 seconden.
 
-Je hebt de twee factor authorisatie (2FA) nu succesvol ingesteld!
+Je hebt de tweestapsverificatie (2FA) nu succesvol ingesteld!
 
 #### [Bekijk hier de interactieve demo!](https://app.supademo.com/demo/cmircayvk10thl821sghyihjb?utm_source=link)
+
+
+

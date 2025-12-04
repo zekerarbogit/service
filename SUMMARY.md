@@ -9,7 +9,7 @@
     * [Geen SMS ontvangen](medewerkers/inloggen/geen-sms-ontvangen.md)
     * [Portaal activeren medewerkers](medewerkers/eerste-gebruik-portaal/portaal-activeren-medewerkers.md)
     * [Authenticator app installeren iPhone](medewerkers/inloggen/authenticator-app-installeren-iphone.md)
-    * [Authenticator app installeren Android](medewerkers/inloggen/authenticator-app-installeren-android.md)
+    * [Authenticator app installeren en instellen Android](medewerkers/inloggen/authenticator-app-installeren-en-instellen-android.md)
   * [Eerste gebruik portaal](medewerkers/eerste-gebruik-portaal/README.md)
     * [Portaal activeren medewerkers](medewerkers/eerste-gebruik-portaal/portaal-activeren-medewerkers.md)
   * [Gebruik portaal](medewerkers/gebruik-portaal/README.md)
