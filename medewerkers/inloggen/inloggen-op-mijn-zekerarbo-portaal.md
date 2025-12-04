@@ -14,7 +14,7 @@ description: >-
 2. Klik in het menu op Voor medewerkers.
 3. Klik vervolgens op de knop Mijn ZekerArbo.
 4. Vul je e-mailadres en wachtwoord in en klik op Inloggen.
-5. Je ontvangt direct een verificatiecode op je telefoon (SMS). Vul deze in en klik nogmaals op Inloggen.
+5. Vul nu de verificatiecode in. Deze haal je uit je Authenticator app of ontvang je per SMS, afhankelijk van wat je hebt ingesteld. Klik op Inloggen.
 
 ***
 
@@ -22,6 +22,8 @@ Geen SMS-code ontvangen? Komt de code niet binnen? Grote kans dat er een oud of 
 
 * Vraag je werkgever om je telefoonnummer in het portaal aan te passen.
 * Zodra je werkgever dit heeft gedaan, kun je direct opnieuw proberen in te loggen. De code komt dan op je juiste nummer binnen.
+
+App: Open de app 'Microsoft Authenticator' op je telefoon en gebruik de code die je daar ziet.
 
 <details>
 
