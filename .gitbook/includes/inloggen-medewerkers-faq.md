@@ -17,7 +17,7 @@ title: Inloggen - Medewerkers FAQ
 
 <summary>Elk nieuw wachtwoord dat ik invoer en dat aan de criteria voldoet, wordt afgewezen. Wat moet ik doen?</summary>
 
-Klik op het ‘oog-symbool’ in het wachtwoordveld om te controleren wat je hebt ingetypt en of dit exact voldoet aan alle gestelde eisen.&#x20;
+Klik op het ‘oog-symbool’ in het wachtwoordveld om te controleren wat je hebt ingetypt en of dit exact voldoet aan alle gestelde eisen. Lees meer in het artikel [wachtwoordeisen.md](../../medewerkers/inloggen/wachtwoordeisen.md "mention")
 
 </details>
 
@@ -31,19 +31,10 @@ Wanneer je je inloggegevens kwijt bent of deze lijken niet te kloppen, kun je kl
 
 <details>
 
-<summary>Ik wil inloggen via 'ik kan niet inloggen', maar ik ontvang geen e-mail.</summary>
+<summary>Ik wil inloggen via 'ik kan niet inloggen', maar ik ontvang geen e-mail</summary>
 
-Check in je spam of de mail daar is aangekomen. Het kan ook zijn dat er vertraging in de mailverzending zit; controleer je mailbox dan wat later.
-
-Goed om te weten: de herstelmail wordt altijd verstuurd naar het e-mailadres waarmee je de oorspronkelijke uitnodiging hebt ontvangen.
-
-</details>
-
-<details>
-
-<summary>Ik wil inloggen maar ik ontvang geen bevestigingscode per mail of sms.</summary>
-
-Dit klopt, je ontvangt geen code per e-mail of sms. Deze code wordt automatisch gegenereerd in de authenticator-applicatie die je hebt geïnstalleerd (bijvoorbeeld op je telefoon).&#x20;
+* Check je map met ongewenste e-mail (spam).
+* Wacht even af; soms zit er een kleine vertraging in de verzending.
+* _Let op:_ De mail wordt altijd verstuurd naar het e-mailadres waarop je de oorspronkelijke uitnodiging hebt ontvangen.
 
 </details>
-

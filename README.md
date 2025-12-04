@@ -40,7 +40,10 @@ metaLinks:
 
 <summary>Ik heb een videogesprek, maar ik kan niet in mijn portaal komen om op de videolink te klikken.</summary>
 
-Inloggen in het portaal is hiervoor niet nodig. Je hebt de uitnodiging (afspraakbevestiging) per e-mail ontvangen. In die e-mail kun je direct op de link ‘Video consult’ klikken.
+Niet per se, maar het kan wel handig zijn. Je vindt de link naar het gesprek namelijk op twee plekken:
+
+1. Via de e-mail (Geen inlog nodig): In de afspraakbevestiging die je hebt ontvangen staat een directe link. Klik hierop om het gesprek te starten.
+2. Via het portaal (Wel inloggen): Kun je de e-mail niet vinden? Log dan in op _Mijn ZekerArbo_. Bij de details van je afspraak vind je de link ook terug.
 
 </details>
 
@@ -48,7 +51,7 @@ Inloggen in het portaal is hiervoor niet nodig. Je hebt de uitnodiging (afspraak
 
 <summary>Kan ik het portaal inzien op mijn telefoon of tablet?</summary>
 
-
+Jazeker. Je kunt het portaal gewoon openen via de internetbrowser op je smartphone of tablet. De website is mobielvriendelijk en past zich automatisch aan de grootte van je scherm aan. Handig als je onderweg even snel je afspraken wilt checken.
 
 </details>
 

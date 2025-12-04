@@ -25,33 +25,5 @@ Geen SMS-code ontvangen? Komt de code niet binnen? Grote kans dat er een oud of 
 
 App: Open de app 'Microsoft Authenticator' op je telefoon en gebruik de code die je daar ziet.
 
-<details>
 
-<summary>Lees de uitleg met afbeeldingen</summary>
-
-#### 1. Inloggen Mijn ZekerArbo
-
-![1](https://export.supademo.com/renders/wv3b2j8lu3/out.png)
-
-#### 2. Om te beginnen klik je op "Voor medewerkers"
-
-![2](https://export.supademo.com/renders/cwlm0zxyjl/out.png)
-
-#### 3. Klik nu op de knop "Mijn ZekerArbo"
-
-![3](https://export.supademo.com/renders/9cb9yr0lg7/out.png)
-
-#### 4. Voer vervolgens je e-mailadres en wachtwoord in, druk op "inloggen"
-
-![4](https://export.supademo.com/renders/9ep1gb9h8n/out.png)
-
-#### 5. Je ontvangt een code op je telefoon, voer deze in en druk op "inloggen"
-
-![5](https://export.supademo.com/renders/2a5s3bsvxb/out.png)
-
-</details>
-
-
-
-> _Medewerkers, inloggen, medewerkersportaal_
 
