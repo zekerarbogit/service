@@ -1,10 +1,6 @@
----
-description: Meer aandacht voor jou met slimme spraakherkennin
----
-
 # Informatie gebruik Juvoly tijdens spreekuur
 
-## Meer aandacht voor jou met slimme spraakherkenning
+### Meer aandacht voor jou met slimme spraakherkenning
 
 Tijdens het spreekuur kan het zijn dat de bedrijfsarts of praktijkondersteuner (POB) vraagt of we Juvoly QuickConsult mogen gebruiken. Dit is een slimme tool die ons gesprek automatisch omzet in een samenvatting.
 
