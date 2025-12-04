@@ -8,6 +8,7 @@
     * [Waar vind ik mijn uitnodigingscode?](medewerkers/inloggen/waar-vind-ik-mijn-uitnodigingscode.md)
     * [Geen SMS ontvangen](medewerkers/inloggen/geen-sms-ontvangen.md)
     * [Portaal activeren medewerkers](medewerkers/eerste-gebruik-portaal/portaal-activeren-medewerkers.md)
+    * [Authenticator app installeren iPhone](medewerkers/inloggen/authenticator-app-installeren-iphone.md)
   * [Eerste gebruik portaal](medewerkers/eerste-gebruik-portaal/README.md)
     * [Portaal activeren medewerkers](medewerkers/eerste-gebruik-portaal/portaal-activeren-medewerkers.md)
   * [Gebruik portaal](medewerkers/gebruik-portaal/README.md)
