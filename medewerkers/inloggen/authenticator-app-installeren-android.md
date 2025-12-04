@@ -23,8 +23,4 @@ description: >-
 
 Je hebt de twee factor authorisatie (2FA) nu succesvol ingesteld!
 
-
-
-
-
-### [Bekijk hier de interactieve demo!](https://app.supademo.com/demo/cmircayvk10thl821sghyihjb?utm_source=link)
+#### [Bekijk hier de interactieve demo!](https://app.supademo.com/demo/cmircayvk10thl821sghyihjb?utm_source=link)
