@@ -68,6 +68,3 @@ Je hebt de tweestapsverificatie (2FA) nu succesvol ingesteld!
 
 #### 11. Je hebt nu de twee factor autorisatie (2FA) ingesteld!
 
-***
-
-[_This workflow was created with Supademo._](https://app.supademo.com/demo/cmirb6phy00m6z90i8o3ro6b1)
