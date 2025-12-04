@@ -21,7 +21,10 @@ description: >-
 7. Scan met je telefoon de QR-code die op je computerscherm bij Mijn ZekerArbo wordt getoond.
 8. De app toont nu een 6-cijferige code die elke 30 seconden verandert.
 
-Je hebt de tweestapsverificatie (2FA) nu succesvol ingesteld!
+Je hebt de twee factor authorisatie (2FA) nu succesvol ingesteld!
 
-{% @supademo/embed demoId="cmircayvk10thl821sghyihjb" url="https://app.supademo.com/demo/cmircayvk10thl821sghyihjb" %}
 
+
+
+
+### [Bekijk hier de interactieve demo!](https://app.supademo.com/demo/cmircayvk10thl821sghyihjb?utm_source=link)
