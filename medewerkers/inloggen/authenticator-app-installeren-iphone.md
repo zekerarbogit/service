@@ -60,11 +60,19 @@ Je hebt de tweestapsverificatie (2FA) nu succesvol ingesteld!
 
 #### 9. Scan nu de QR code van Mijn ZekerArbo
 
-![19](https://export.supademo.com/renders/ir8i5yiem9/out.png)
+![17](https://export.supademo.com/renders/zr0aygjf17/out.png)
 
 #### 10. De authenticator code verschijnt nu in je scherm, deze verandert elke 30 seconden
 
 ![20](https://export.supademo.com/renders/7fxchcxlqn/out.png)
 
 #### 11. Je hebt nu de twee factor autorisatie (2FA) ingesteld!
+
+####
+
+
+
+
+
+####
 
