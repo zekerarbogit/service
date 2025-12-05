@@ -14,7 +14,7 @@ Omdat medewerkers hierdoor niet kunnen inloggen en dus hun documenten, terugkopp
 * Impact: Medewerkers kunnen niet inloggen en hebben geen toegang tot hun dossier.
 * Verwachte oplossing: Onze technische dienst werkt met de hoogste urgentie aan een oplossing.
 
-### Wat kun je zelf proberen?
+**Wat kun je zelf proberen?**
 
 In sommige gevallen wordt de 2FA-koppeling gereset wanneer je je wachtwoord wijzigt. Je kunt dit zelf proberen:
 
