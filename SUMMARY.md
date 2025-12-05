@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Actuele systeemstatus](README.md)
+* [Service platform](README.md)
