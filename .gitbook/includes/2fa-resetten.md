@@ -4,7 +4,7 @@ title: 2FA resetten
 
 <details>
 
-<summary>Problemen met resetten Tweefactor authenticatie (2FA)</summary>
+<summary><strong>Problemen met resetten Tweefactor authenticatie (2FA)</strong></summary>
 
 Het komt voor dat medewerkers geen toegang meer hebben tot hun ingestelde authenticator app (bijvoorbeeld door een nieuwe telefoon) en hierdoor niet meer kunnen inloggen.
 
