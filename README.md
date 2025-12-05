@@ -78,7 +78,7 @@ Zie je na het inloggen direct de melding "fout" of blijft het scherm wit? Dit pr
 
 <details>
 
-<summary>Achterstand e-mailafhandeling</summary>
+<summary><strong>Achterstand e-mailafhandeling</strong></summary>
 
 Door de drukte rondom de overgang naar het nieuwe systeem hebben we momenteel een achterstand in het verwerken van e-mails. Hierdoor kan het gebeuren dat urgente vragen of verzoeken later worden opgepakt dan je van ons gewend bent.
 
@@ -86,5 +86,18 @@ Door de drukte rondom de overgang naar het nieuwe systeem hebben we momenteel ee
 * Impact: Langere wachttijden voor reactie op e-mails.
 * Verwachte oplossing: We werken met een vergroot team hard om de achterstand in te lopen.
 * Actie nodig? Heb je een dringende vraag of spoedeisende situatie? Bel ons dan in plaats van te mailen. Zo voorkomen we dat jouw dringende vraag ondergesneeuwd raakt. Voor niet-dringende vragen vragen we om je geduld.
+
+</details>
+
+<details>
+
+<summary>Problemen met resetten Tweefactor authenticatie (2FA)</summary>
+
+Het komt voor dat medewerkers geen toegang meer hebben tot hun ingestelde authenticator app (bijvoorbeeld door een nieuwe telefoon) en hierdoor niet meer kunnen inloggen. Normaal gesproken wordt de 2FA gereset wanneer je je wachtwoord opnieuw instelt, zodat je een nieuwe methode kunt kiezen (zoals SMS). Helaas werkt dit mechanisme momenteel niet voor alle gebruikers.
+
+* Status: Er wordt aan gewerkt (Onderzoek loopt).
+* Impact: Medewerkers die geen toegang meer hebben tot hun authenticator app kunnen niet inloggen, ook niet na een wachtwoord reset.
+* Verwachte oplossing: Onze technische dienst werkt aan een oplossing om de 2FA-reset voor iedereen weer correct te laten werken.
+* Actie nodig? Nee. Onze servicedesk kan dit probleem op dit moment helaas niet handmatig voor je oplossen. Wij verzoeken je daarom vriendelijk om geen contact op te nemen, maar te wachten tot de oplossing is doorgevoerd. Houd deze pagina in de gaten voor updates.
 
 </details>
