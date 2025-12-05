@@ -69,6 +69,6 @@ Ja, het medewerkersportaal Mijn ZekerArbo is ook te gebruiken via je browser op 
 
 <summary>Er missen gegevens in het portaal</summary>
 
-We verwachten dat deze problemen inmiddels opgelost zijn, probeer het gerust opnieuw.
+Lees onze [Actuele systeemstatus](https://app.gitbook.com/o/4BKdpg5ftV4yuzJAAmh6/s/qqLiil9U7J0faRdoIuhy/ "mention") of dit probleem is opgelost.
 
 </details>
