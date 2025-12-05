@@ -10,7 +10,7 @@
     * [Portaal activeren medewerkers](medewerkers/eerste-gebruik-portaal/portaal-activeren-medewerkers.md)
     * [Authenticator app installeren iPhone](medewerkers/inloggen/authenticator-app-installeren-iphone.md)
     * [Authenticator app installeren en instellen Android](medewerkers/inloggen/authenticator-app-installeren-android.md)
-    * [Tweefactor authenticatie instellen](medewerkers/inloggen/tweefactor-authenticatie-instellen.md)
+    * [Tweefactor authenticatie (2FA) instellen](medewerkers/inloggen/tweefactor-authenticatie-2fa-instellen.md)
     * [Tweefactor authenticatie (2FA) resetten](medewerkers/inloggen/tweefactor-authenticatie-2fa-resetten.md)
   * [Eerste gebruik portaal](medewerkers/eerste-gebruik-portaal/README.md)
     * [Portaal activeren medewerkers](medewerkers/eerste-gebruik-portaal/portaal-activeren-medewerkers.md)
