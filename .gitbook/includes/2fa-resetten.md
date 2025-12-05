@@ -19,7 +19,7 @@ Omdat medewerkers hierdoor niet kunnen inloggen en dus hun documenten, terugkopp
 In sommige gevallen wordt de 2FA-koppeling gereset wanneer je je wachtwoord wijzigt. Je kunt dit zelf proberen:
 
 1. Ga naar het inlogscherm en kies voor Wachtwoord vergeten?.
-2. Volg de stappen in de handleiding: [Wachtwoord opnieuw instellen](https://www.google.com/search?q=https://mijnzekerarbo.planningsagenda.nl/medewerkers/inloggen/wachtwoord-opnieuw-instellen).
+2. Volg de stappen in de handleiding: [Wachtwoord opnieuw instellen](https://app.gitbook.com/s/OxTozy5N0xydbugfyf3h/medewerkers/inloggen/wachtwoord-opnieuw-instellen "mention")
 3. Log in met je nieuwe wachtwoord.
    * Werkt het? Je krijgt nu de optie om 2FA opnieuw in te stellen.
    * Werkt het niet? Wordt er toch weer om de oude code gevraagd? Dan val je helaas onder de groep waarbij dit mechanisme tijdelijk niet werkt.
