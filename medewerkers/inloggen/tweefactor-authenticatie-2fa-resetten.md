@@ -7,8 +7,6 @@ description: >-
 
 # Tweefactor authenticatie (2FA) resetten
 
-Het komt voor dat medewerkers geen toegang meer hebben tot hun ingestelde authenticator app (bijvoorbeeld door een nieuwe telefoon) en hierdoor niet meer kunnen inloggen.
-
 Omdat medewerkers hierdoor niet kunnen inloggen en dus hun documenten, terugkoppelingen en afspraken niet kunnen inzien, heeft het oplossen van dit probleem voor ons top prioriteit.
 
 * Status: **Opgelost**
