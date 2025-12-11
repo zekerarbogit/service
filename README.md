@@ -1,106 +1,57 @@
-# Actuele systeemstatus
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/
+---
 
-We zijn overgestapt op ons nieuwe systeem: Planningsagenda. De migratie verloopt niet vlekkeloos en dit brengt helaas technische uitdagingen met zich mee.
+# Medewerkers
 
-Drukte bij de klantenservice Door deze situatie is het momenteel erg druk bij onze supportafdeling. De wachttijd aan de telefoon en de reactietijd op e-mails is langer dan je van ons gewend bent.
+<h2 align="center">Hoe kunnen we je helpen?</h2>
 
-Heb je een vraag?
+<p align="center">Heb je een vraag? Grote kans dat het antwoord hier in de kennisbank staat. We raden je aan eerst de zoekfunctie bovenaan te gebruiken.</p>
 
-* <i class="fa-message-minus">:message-minus:</i> Chat met Fay: Stel je vraag rechtsonder aan onze digitale collega.
-* <i class="fa-book">:book:</i> Kennisbank: Kijk eerst op onze [https://service.zekerarbo.nl/](https://service.zekerarbo.nl/ "mention") voor antwoorden op vragen over inloggen en activeren.
+<p align="center"> <a href="https://www.zekerarbo.nl/medewerkers/contact-medewerker/" class="button secondary">Neem contact op</a></p>
 
-Onze excuses voor het ongemak en dank voor je begrip.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-right-to-bracket">:right-to-bracket:</i></h4></td><td><strong>Vragen over inloggen</strong></td><td>Je hebt problemen met het inloggen op je portaal</td><td><a href="medewerkers/inloggen/">inloggen</a></td><td><a href=".gitbook/assets/inlogproblemen.webp">inlogproblemen.webp</a></td></tr><tr><td><h4><i class="fa-envelope-open">:envelope-open:</i></h4></td><td><strong>Eerste gebruik portaal</strong></td><td>Krijg hulp bij het activeren van je portaal</td><td><a href="medewerkers/eerste-gebruik-portaal/">eerste-gebruik-portaal</a></td><td><a href=".gitbook/assets/portaal.webp">portaal.webp</a></td></tr><tr><td><h4><i class="fa-rectangle-history-circle-user">:rectangle-history-circle-user:</i></h4></td><td><strong>Gebruik portaal</strong></td><td>Waar kan ik alles vinden?</td><td><a href="medewerkers/gebruik-portaal/">gebruik-portaal</a></td><td><a href=".gitbook/assets/portaalwerk.png">portaalwerk.png</a></td></tr><tr><td><i class="fa-video">:video:</i></td><td><strong>Vragen over videobellen</strong></td><td>Hoe werkt het online consult  via videobellen? </td><td><a href="medewerkers/videobellen/">videobellen</a></td><td><a href=".gitbook/assets/videogesprek.webp">videogesprek.webp</a></td></tr><tr><td><i class="fa-face-thermometer">:face-thermometer:</i></td><td><strong>Vragen over verzuim</strong></td><td>Ben je ziek en wil je weten wat je moet doen?</td><td><a href="medewerkers/verzuim/">verzuim</a></td><td><a href=".gitbook/assets/arts.webp">arts.webp</a></td></tr><tr><td><i class="fa-z">:z:</i></td><td><strong>Over ZekerAbo</strong></td><td>Meer over wat we doen. </td><td><a href="medewerkers/over-zekerarbo/">over-zekerarbo</a></td><td><a href=".gitbook/assets/Zekerarbo.webp">Zekerarbo.webp</a></td></tr></tbody></table>
 
-***
+### Veelgestelde vragen
 
-#### Bekende problemen en status
+#### Inloggen
 
-Hieronder zie je welke problemen bij ons bekend zijn, hoeveel klanten hier last van hebben en wanneer we verwachten dat dit is opgelost.
+{% include ".gitbook/includes/inloggen-medewerkers-faq.md" %}
 
-{% include ".gitbook/includes/gegevens-missen.md" %}
+#### Algemeen
 
 <details>
 
-<summary><strong>Clientportaal (Medewerkers): Documenten missen</strong></summary>
+<summary>Ik heb een videogesprek, maar ik kan niet in mijn portaal komen om op de videolink te klikken.</summary>
 
-In jouw persoonlijke omgeving ('Mijn ZekerArbo') kan het voorkomen dat je nog niet al je documenten ziet staan.
+Niet per se, maar het kan wel handig zijn. Je vindt de link naar het gesprek namelijk op twee plekken:
 
-* Status: Er wordt aan gewerkt (automatisch herstel).
-* Impact: Klein deel gebruikers
-* Verwachte oplossing: Binnen 2 weken is alles weer zichtbaar.
-* Actie nodig? Nee. Je hoeft hiervoor geen melding te maken.
+1. Via de e-mail (Geen inlog nodig): In de afspraakbevestiging die je hebt ontvangen staat een directe link. Klik hierop om het gesprek te starten.
+2. Via het portaal (Wel inloggen): Kun je de e-mail niet vinden? Log dan in op _Mijn ZekerArbo_. Bij de details van je afspraak vind je de link ook terug.
 
 </details>
 
 <details>
 
-<summary><strong>Inloggen: Geen SMS-verificatiecode ontvangen</strong></summary>
+<summary>Kan ik het portaal inzien op mijn telefoon of tablet?</summary>
 
-Je kunt niet inloggen omdat de SMS-code niet binnenkomt. De oorzaak is vaak een verouderd of onjuist 06-nummer in ons systeem.
-
-* Status: Oplossing beschikbaar.
-* Impact: Klein deel gebruikers
-* Verwachte oplossing: Direct (na aanpassing nummer).
-* Actie nodig? Ja.
-  * Ben je Medewerker? Vraag je werkgever om je nummer in het portaal aan te passen. Hierna werkt het direct.
-  * Ben je Werkgever? Stuur een e-mail met je bedrijfsnaam en het juiste 06-nummer naar [contractadministratie@zekerarbo.nl](mailto:contractadministratie@zekerarbo.nl). Wij passen dit voor je aan.
+Jazeker. Je kunt het portaal gewoon openen via de internetbrowser op je smartphone of tablet. De website is mobielvriendelijk en past zich automatisch aan de grootte van je scherm aan. Handig als je onderweg even snel je afspraken wilt checken.
 
 </details>
 
-<details>
-
-<summary><strong>Inloggen: Wachtwoord of link werkt niet</strong></summary>
-
-Problemen met activeren via de mail of oude wachtwoorden.
-
-* Status: Oplossing beschikbaar.
-* Impact: Veel gebruikers.
-* Verwachte oplossing: Direct (zelf op te lossen).
-* Actie nodig? Ja. Gebruik de functie 'Wachtwoord vergeten' op de inlogpagina om zelf direct een nieuw wachtwoord en toegang te regelen.
-
-</details>
-
-<details>
-
-<summary><strong>Werkgeversportaal(verzuim): Melding "fout" na inloggen</strong></summary>
-
-Zie je na het inloggen direct de melding "fout" of blijft het scherm wit? Dit probleem wordt meestal veroorzaakt door oude gegevens in je browser.
-
-* Status: Oplossing beschikbaar.
-* Impact: Enkele gebruikers.
-* Verwachte oplossing: Direct (zelf op te lossen).
-* Actie nodig? Ja. Probeer de volgende stappen:
-  1. Leeg de cookies en cache van je browser.
-  2. Probeer in te loggen via een Incognito-venster (Privé-venster).
-  3. Lukt het nog niet? Probeer het dan via een andere internetbrowser of computer.
-
-</details>
-
-<details>
-
-<summary><strong>Achterstand e-mailafhandeling</strong></summary>
-
-Door de drukte rondom de overgang naar het nieuwe systeem hebben we momenteel een achterstand in het verwerken van e-mails. Hierdoor kan het gebeuren dat urgente vragen of verzoeken later worden opgepakt dan je van ons gewend bent.
-
-* Status: Er wordt aan gewerkt (Extra capaciteit ingezet).
-* Impact: Langere wachttijden voor reactie op e-mails.
-* Verwachte oplossing: We werken met een vergroot team hard om de achterstand in te lopen.
-* Actie nodig? Heb je een dringende vraag of spoedeisende situatie? Bel ons dan in plaats van te mailen. Zo voorkomen we dat jouw dringende vraag ondergesneeuwd raakt. Voor niet-dringende vragen vragen we om je geduld.
-
-</details>
-
-<details>
-
-<summary><strong>Opgelost - Problemen met resetten Tweefactor Authenticatie (2FA)</strong></summary>
-
-Het komt voor dat medewerkers geen toegang meer hebben tot hun ingestelde authenticator app (bijvoorbeeld door een nieuwe telefoon) en hierdoor niet meer kunnen inloggen.
-
-Omdat medewerkers hierdoor niet kunnen inloggen en dus hun documenten, terugkoppelingen en afspraken niet kunnen inzien, heeft het oplossen van dit probleem voor ons top prioriteit.
-
-* Status: **Opgelost**
-* Impact: Medewerkers kunnen niet inloggen en hebben geen toegang tot hun dossier.
-* **Oplossing**: Kies tijdens het inloggen voor 'Of verzend code via SMS' om een SMS te ontvangen met 2FA code.
-
-
-
-</details>
