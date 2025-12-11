@@ -89,4 +89,18 @@ Door de drukte rondom de overgang naar het nieuwe systeem hebben we momenteel ee
 
 </details>
 
-{% include ".gitbook/includes/2fa-resetten.md" %}
+<details>
+
+<summary>Opgelost - Problemen met resetten Tweefactor Authenticatie (2FA)</summary>
+
+Het komt voor dat medewerkers geen toegang meer hebben tot hun ingestelde authenticator app (bijvoorbeeld door een nieuwe telefoon) en hierdoor niet meer kunnen inloggen.
+
+Omdat medewerkers hierdoor niet kunnen inloggen en dus hun documenten, terugkoppelingen en afspraken niet kunnen inzien, heeft het oplossen van dit probleem voor ons top prioriteit.
+
+* Status: **Opgelost**
+* Impact: Medewerkers kunnen niet inloggen en hebben geen toegang tot hun dossier.
+* **Oplossing**: Kies tijdens het inloggen voor 'Of verzend code via SMS' om een SMS te ontvangen met 2FA code.
+
+
+
+</details>
