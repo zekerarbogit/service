@@ -91,7 +91,7 @@ Door de drukte rondom de overgang naar het nieuwe systeem hebben we momenteel ee
 
 <details>
 
-<summary>Opgelost - Problemen met resetten Tweefactor Authenticatie (2FA)</summary>
+<summary><strong>Opgelost - Problemen met resetten Tweefactor Authenticatie (2FA)</strong></summary>
 
 Het komt voor dat medewerkers geen toegang meer hebben tot hun ingestelde authenticator app (bijvoorbeeld door een nieuwe telefoon) en hierdoor niet meer kunnen inloggen.
 
