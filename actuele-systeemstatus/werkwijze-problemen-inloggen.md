@@ -4,80 +4,117 @@ hidden: true
 
 # Werkwijze problemen inloggen
 
-•      Deze workflow beschrijft de stappen bij problemen met inloggen in het portaal.
+Deze workflow beschrijft de stappen bij problemen met inloggen in het portaal.
 
-Stap 1 – Klantmelding
+{% stepper %}
+{% step %}
+### Klantmelding
 
-•      De klant belt met een vraag of probleem over het portaal.
+De klant belt met een vraag of probleem over het portaal.
+{% endstep %}
 
-Stap 2 – Inloggegevens
+{% step %}
+### Inloggegevens uitvragen
 
-•      Vraag met welk e-mailadres de klant probeert in te loggen.
+Vraag met welk e-mailadres de klant probeert in te loggen.
+{% endstep %}
 
-Stap 3 – Account controleren
+{% step %}
+### Account opzoeken
 
-•      Ga naar Planningsagenda → Klant gebruikers.
+Ga naar **Planningsagenda → Klant gebruikers**.
 
-•      Zoek het account op via het e-mailadres.
+Zoek het account op via het e-mailadres.
+{% endstep %}
 
-Stap 4 – Bestaat het account?
+{% step %}
+### Bestaat het account?
 
-•      JA → Ga verder met controle van de rol.
+* **Ja** → ga door bij [Account bestaat](werkwijze-problemen-inloggen.md#account-bestaat).
+* **Nee** → ga door bij [Account niet gevonden](werkwijze-problemen-inloggen.md#account-niet-gevonden).
+{% endstep %}
+{% endstepper %}
 
-•      NEE → Controleer Inactieve gebruikers.
+### Account bestaat
 
-•      Ook niet onder inactieve gebruikers?\
-Zie stap 10
+{% stepper %}
+{% step %}
+### 5. Rol controleren
 
-Stap 5 – Rol controleren
+Controleer welke rol het account heeft.
 
-•      Controleer welke rol het account heeft.
+Staat de rol op **Migratie**? Pas deze aan naar rol **1, 2, 3 of 4** via **Bewerken**.
+{% endstep %}
 
-•      Staat de rol op ‘Migratie’? Pas deze aan naar rol 1, 2, 3 of 4, klik hiervoor op bewerken.
+{% step %}
+### 6. E-mailadres controleren
 
-Stap 6 – E-mailadres controleren
+Open het account en kies **Bewerken**.
 
-•      Open het account en kies ‘Bewerken’.
+Controleer of het e-mailadres op **alle 4 plekken** correct staat ingevuld.
+{% endstep %}
 
-•      Controleer of het e-mailadres op alle 4 de plekken correct staat ingevuld.
+{% step %}
+### 7. Eerder ingelogd?
 
-Stap 7 – Eerder ingelogd?
+* **Nee** → laat de klant via **Wachtwoord vergeten** een wachtwoord instellen.
+* **Ja** → laat de klant opnieuw proberen in te loggen.
+{% endstep %}
 
-•      NEE → Laat de klant via ‘Wachtwoord vergeten’ een wachtwoord instellen.
+{% step %}
+### 8. Nog steeds foutmelding?
 
-•      JA → Laat de klant opnieuw proberen in te loggen.
+Als de fout blijft: controleer of het account is doorgeschoten naar **B2C**.
 
-Stap 8 – Nog steeds foutmelding?
+Ga door bij [B2C controle](werkwijze-problemen-inloggen.md#b2c-controle).
+{% endstep %}
+{% endstepper %}
 
-•      Controleer of het account is doorgeschoten naar B2C.
+#### B2C controle
 
-Stap 9 – B2C controle
+{% stepper %}
+{% step %}
+### 9. B2C status bepalen
 
-•      Niet doorgeschoten → Voer het account op bij B2C.
+* **Niet doorgeschoten** → voer het account op bij **B2C**.
+* **Wel doorgeschoten** → verwijder het account volledig en voer het opnieuw in.
 
-•      Wel doorgeschoten → Verwijder het account volledig en voer het opnieuw in.
+{% hint style="warning" %}
+Verwijderen en opnieuw opvoeren is ingrijpend. Doe dit alleen als het account al in B2C staat en de login blijft falen.
+{% endhint %}
+{% endstep %}
+{% endstepper %}
 
-Stap 10 – Account bestaat niet
+### Account niet gevonden
 
-•      Controleer onder ‘Inactieve gebruikers’.
+{% stepper %}
+{% step %}
+### 10. Inactieve gebruikers controleren
 
-•      Account gevonden → Maak actief en stel juiste rol in.
+Controleer onder **Inactieve gebruikers**.
 
-Stap 11 – Zoeken op bedrijfsnaam
+* **Account gevonden** → maak actief, stel juiste rol in, en ga verder bij [Account bestaat](werkwijze-problemen-inloggen.md#account-bestaat).
+{% endstep %}
 
-•      Account niet gevonden?
+{% step %}
+### 11. Zoeken op bedrijfsnaam
 
-•      Zoek op bedrijfsnaam.
+Is er geen account te vinden op e-mailadres én niet bij inactieve gebruikers?
 
-Stap 12 – Ander account gevonden
+Zoek dan op **bedrijfsnaam**.
+{% endstep %}
 
-•      Geef aan dat de gebruiker zelf een account moet aanmaken via service.zekerarbo.nl.
+{% step %}
+### 12. Ander account gevonden
 
-Stap 13 – Geen account gevonden
+Geef aan dat de gebruiker zelf een account moet aanmaken via **service.zekerarbo.nl**.
+{% endstep %}
 
-•      Vraag het e-mailadres opnieuw.
+{% step %}
+### 13. Geen account gevonden
 
-•      Controleer bij ‘Bedrijven’ of het e-mailadres als contactpersoon staat genoteerd.
+Vraag het e-mailadres opnieuw.
 
-&#x20;
-
+Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.
+{% endstep %}
+{% endstepper %}
