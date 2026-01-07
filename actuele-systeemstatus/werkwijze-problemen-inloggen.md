@@ -39,15 +39,26 @@ Zoek het account op via het e-mailadres.
 {% endstep %}
 {% endstepper %}
 
-## Account bestaat
+## Account bestaat - Controle gegevens
 
 {% stepper %}
 {% step %}
+### Standaard vragen
+
+* **Ja** → ga door naar [2FA problemen](werkwijze-problemen-inloggen.md#id-2fa-problemen)
+* **Nee** → ga door naar volgende stap
+{% endstep %}
+
+{% step %}
+### Gebruiker openen
+
+Open de opgezochte gebruiker door erop te klikken, kies vervolgens **Bewerken**.
+{% endstep %}
+
+{% step %}
 ### Rol controleren
 
-Open de opgezochte gebruiker en bekijk welke rol deze heeft.&#x20;
-
-Staat de rol op **Migratie**? Pas deze aan naar rol **1, 2, 3 of 4** via **Bewerken**.
+Staat de rol op **Migratie**? Pas deze aan naar rol **1, 2, 3 of 4**.
 
 {% hint style="danger" %}
 **1 WG - Geen koppeling met systeem WG - Inzage op organisatieniveau - ZekerArbo**
@@ -87,8 +98,6 @@ _Deze rol kan alleen worden toegekend wanneer er een koppeling is met verzuim/HR
 {% step %}
 ### E-mailadres controleren
 
-Open het account en kies **Bewerken**.
-
 Controleer of het e-mailadres op **alle 4 plekken** correct staat ingevuld.
 
 **Velden**
@@ -115,24 +124,28 @@ Kijk naar **Laatste inlog**. Is de klant eerder ingelogd?&#x20;
 
 Als de fout blijft: controleer of het account is doorgeschoten naar **B2C**.
 
-Ga door bij [B2C controle](werkwijze-problemen-inloggen.md#b2c-controle).
+Ga door bij [B2C controle](werkwijze-problemen-inloggen.md#microsoft-entra-id-b2c-controle).
 {% endstep %}
 {% endstepper %}
 
-## B2C controle
+## 2FA problemen
+
+
+
+## Microsoft Entra ID - B2C controle
 
 {% stepper %}
 {% step %}
 ### B2C status bepalen
 
-[Niet elke medewerker kan dit controleren, vraag dit na bij je leidinggevende. ](#user-content-fn-1)[^1]
-
-
+{% hint style="success" %}
+Niet elke medewerker kan dit controleren, vraag na wie dit kan bij je leidinggevende.
+{% endhint %}
 
 * **Niet doorgeschoten** → voer het account op bij **B2C**.
 * **Wel doorgeschoten** → verwijder het account volledig en voer het opnieuw in.
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Verwijderen en opnieuw opvoeren is ingrijpend. Doe dit alleen als het account al in B2C staat en de login blijft falen.
 {% endhint %}
 {% endstep %}
@@ -144,7 +157,7 @@ Verwijderen en opnieuw opvoeren is ingrijpend. Doe dit alleen als het account al
 {% step %}
 ### Inactieve gebruikers controleren
 
-Controleer onder **Inactieve gebruikers**. (In Planningsagenda: Klant Gebruikers → tab inactieve gebruikers
+Controleer onder **Inactieve gebruikers**. (In Planningsagenda: **Klant Gebruikers** → tab **inactieve gebruikers**
 
 * **Account gevonden** → maak actief, stel juiste rol in, en ga verder bij [Account bestaat](werkwijze-problemen-inloggen.md#account-bestaat).
 {% endstep %}
@@ -164,12 +177,10 @@ Geef aan dat de gebruiker zelf een account moet aanmaken via **service.zekerarbo
 {% endstep %}
 
 {% step %}
-### 13. Geen account gevonden
+### Geen account gevonden
 
 Vraag het e-mailadres opnieuw.
 
 Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.
 {% endstep %}
 {% endstepper %}
-
-[^1]: fdsdsfds
