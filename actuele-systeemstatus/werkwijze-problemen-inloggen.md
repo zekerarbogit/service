@@ -130,7 +130,7 @@ Ga door bij [B2C controle](werkwijze-problemen-inloggen.md#microsoft-entra-id-b2
 
 ## 2FA problemen
 
-
+_Nog aan te vullen na input._&#x20;
 
 ## Microsoft Entra ID - B2C controle
 
