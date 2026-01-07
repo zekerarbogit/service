@@ -1,5 +1,5 @@
 ---
-hidden: true
+if: visitor.claims.unsigned.isArboUser
 ---
 
 # Werkwijze klant verifiëren
