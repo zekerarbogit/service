@@ -2,7 +2,7 @@
 if: visitor.claims.unsigned.isArboUser
 ---
 
-# Werkwijze problemen inloggen - Klantgebruiker
+# Werkwijze problemen inloggen - Klantgebruiker (werkgever/leidinggevende)
 
 Deze workflow beschrijft de stappen bij problemen met inloggen in het portaal.
 
@@ -34,8 +34,8 @@ Zoek het account op via het e-mailadres.
 {% step %}
 ### Bestaat het account?
 
-* **Ja** → ga door bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker.md#account-bestaat).
-* **Nee** → ga door bij [Account niet gevonden](werkwijze-problemen-inloggen-klantgebruiker.md#account-niet-gevonden).
+* **Ja** → ga door bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-bestaat).
+* **Nee** → ga door bij [Account niet gevonden](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-niet-gevonden).
 {% endstep %}
 {% endstepper %}
 
@@ -47,7 +47,7 @@ Zoek het account op via het e-mailadres.
 
 Lukt het om in te loggen met e-mail en wachtwoord maar werkt de 2FA code niet?&#x20;
 
-* **Ja** → ga door naar [2FA problemen](werkwijze-problemen-inloggen-klantgebruiker.md#id-2fa-problemen)
+* **Ja** → ga door naar [2FA problemen](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#id-2fa-problemen)
 * **Nee** → ga door naar volgende stap
 {% endstep %}
 
@@ -104,7 +104,7 @@ Controleer of het e-mailadres op **alle 4 plekken** correct staat ingevuld.
 
 WELKE 4?&#x20;
 
-Kijk of er een "\&amp;" in het e-mailadres staat, ga dan naar [#microsoft-entra-id-b2c-controle](werkwijze-problemen-inloggen-klantgebruiker.md#microsoft-entra-id-b2c-controle "mention")
+Kijk of er een "\&amp;" in het e-mailadres staat, ga dan naar [#microsoft-entra-id-b2c-controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle "mention")
 
 **Velden**
 
@@ -130,7 +130,7 @@ Kijk naar **Laatste inlog**. Is de klant eerder ingelogd?&#x20;
 
 Als de fout blijft: controleer of het account is doorgeschoten naar **B2C**.
 
-Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker.md#microsoft-entra-id-b2c-controle).
+Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle).
 {% endstep %}
 {% endstepper %}
 
@@ -167,7 +167,7 @@ Verwijderen en opnieuw opvoeren is ingrijpend. Doe dit alleen als het account al
 
 Controleer onder **Inactieve gebruikers**. (In Planningsagenda: **Klant Gebruikers** → tab **inactieve gebruikers**
 
-* **Account gevonden** → maak actief, stel juiste rol in, en ga verder bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker.md#account-bestaat).
+* **Account gevonden** → maak actief, stel juiste rol in, en ga verder bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-bestaat).
 {% endstep %}
 
 {% step %}
@@ -181,7 +181,7 @@ Zoek dan op **bedrijfsnaam**.
 {% step %}
 ### Ander account gevonden
 
-Geef aan dat de werkgever zelf een account moet aanmaken. Lees hier de instructies: [Gebruik portaal](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal "mention")
+Geef aan dat de werkgever zelf een account moet aanmaken. Lees hier de instructies: [Aanmaken account voor leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/aanmaken-account-voor-leidinggevende "mention")
 {% endstep %}
 
 {% step %}
