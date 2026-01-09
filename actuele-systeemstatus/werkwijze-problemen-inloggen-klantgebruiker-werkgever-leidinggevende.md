@@ -111,8 +111,8 @@ WELKE 4?&#x20;
 
 * Email
 * Gebruikersnaam
+* Interne e-mail ten behoeve van wachtwoordreset
 * SSO ZekerArbo B2C Klanten
-* SSO ZekerArbo Intern
 {% endstep %}
 
 {% step %}
@@ -186,11 +186,16 @@ Geef aan dat de werkgever zelf een account moet aanmaken. Geef deze instructies 
 {% endstep %}
 
 {% step %}
-### Geen account gevonden
+### Geen klantgebruiker gevonden wel bedrijf
 
 Vraag het e-mailadres opnieuw.
 
-Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.\
-VRAGEN WAT HIER PRECIES MEE WORDT
+Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.<br>
+
+Planningsagenda -> Bedrijven ->&#x20;
+
+Debiteurnummer/contractnummer vragen vanuit factuur, loonheffingsnummer. die haal je uit D'arbois.
+
+(moet misschien nieuw account aangemaakt worden)
 {% endstep %}
 {% endstepper %}
