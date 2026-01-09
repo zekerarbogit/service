@@ -6,7 +6,7 @@ Stappenplan: Inloggen met SMS
 
 1. Ga naar Mijn ZekerArbo en vul je e-mailadres en wachtwoord in.
 2. Het systeem vraagt nu om de code uit je Authenticator app.
-3. Kun je hier niet bij? Klik dan in dit scherm op de link "Of verzend code via SMS"&#x20;
+3. Kun je hier niet bij? Scroll naar beneden en klik op de link "Of verzend code via SMS"&#x20;
 4. Je ontvangt direct een SMS-code op het 06-nummer dat bij ons bekend is.
 5. Vul deze code in en klik op Inloggen.
 
