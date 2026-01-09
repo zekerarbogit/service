@@ -34,7 +34,7 @@ Zoek het account op via het e-mailadres.
 {% step %}
 ### Bestaat het account?
 
-* **Ja** → ga door bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-bestaat).
+* **Ja** → ga door bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-bestaat-controle-gegevens).
 * **Nee** → ga door bij [Account niet gevonden](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-niet-gevonden).
 {% endstep %}
 {% endstepper %}
