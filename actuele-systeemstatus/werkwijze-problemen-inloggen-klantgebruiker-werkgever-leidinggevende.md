@@ -45,10 +45,11 @@ Zoek het account op via het e-mailadres.
 {% step %}
 ### Standaard vragen
 
-Lukt het om in te loggen met e-mail en wachtwoord maar werkt de 2FA code niet?&#x20;
+Om welk probleem gaat het?&#x20;
 
-* **Ja** → ga door naar [2FA problemen](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#id-2fa-problemen)
-* **Nee** → ga door naar volgende stap
+* **Wachtwoord werkt niet →** ga door naar volgende stap
+* **2FA werkt niet →** ga door naar [2FA problemen](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#id-2fa-problemen)
+* **Geen medewerkers zichtbaar →** verwijs klant naar [Autorisaties toekennen leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/autorisaties-toekennen-leidinggevende "mention")
 {% endstep %}
 
 {% step %}
@@ -100,11 +101,11 @@ _Deze rol kan alleen worden toegekend wanneer er een koppeling is met verzuim/HR
 {% step %}
 ### E-mailadres controleren
 
+Kijk of er "\&amp;" in het e-mailadres staat zo **Ja** → ga dan naar [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle) **Nee** → ga door met onderstaande stappen.
+
 Controleer of het e-mailadres op **alle 4 plekken** correct staat ingevuld.
 
 WELKE 4?&#x20;
-
-Kijk of er een "\&amp;" in het e-mailadres staat, ga dan naar [#microsoft-entra-id-b2c-controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle "mention")
 
 **Velden**
 
@@ -121,8 +122,8 @@ Ga terug naar **Planningsagenda → Klant gebruikers**.
 
 Kijk naar **Laatste inlog**. Is de klant eerder ingelogd?&#x20;
 
-* **Nee** → laat de klant via [**Wachtwoord vergeten**](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/inloggen/wachtwoord-opnieuw-instellen) een wachtwoord instellen.
-* **Ja** → laat de klant opnieuw proberen in te loggen.
+* **Nee** → laat de klant via [**Wachtwoord vergeten**](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/inloggen/wachtwoord-opnieuw-instellen) een wachtwoord instellen en test dit direct.
+* **Ja** → laat de klant opnieuw proberen in te loggen, wacht totdat dit is gelukt.
 {% endstep %}
 
 {% step %}
@@ -136,7 +137,7 @@ Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever
 
 ## 2FA problemen
 
-Het kan voorkomen de de klant 2FA heeft ingesteld via de authenticator app maar geen toegang meer heeft, of dat de code niet meer werkt.&#x20;
+Het kan voorkomen dat de klant 2FA heeft ingesteld via de authenticator app maar geen toegang meer heeft, of dat de code niet meer werkt.&#x20;
 
 Op dit moment is de enige manier om dit op te lossen door de klant te verwijderen in Microsoft Entra ID B2C en opnieuw toe te voegen. Vraag aan je leidinggevende welke collega dit voor je kan oplossen.&#x20;
 
@@ -167,7 +168,7 @@ Verwijderen en opnieuw opvoeren is ingrijpend. Doe dit alleen als het account al
 
 Controleer onder **Inactieve gebruikers**. (In Planningsagenda: **Klant Gebruikers** → tab **inactieve gebruikers**
 
-* **Account gevonden** → maak actief, stel juiste rol in, en ga verder bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-bestaat).
+* **Account gevonden** → ga verder bij [Account bestaat](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#account-bestaat) (hier pas je de rol aan).
 {% endstep %}
 
 {% step %}
@@ -179,9 +180,9 @@ Zoek dan op **bedrijfsnaam**.
 {% endstep %}
 
 {% step %}
-### Ander account gevonden
+### Ander account gevonden onder bedrijfsnaam
 
-Geef aan dat de werkgever zelf een account moet aanmaken. Lees hier de instructies: [Aanmaken account voor leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/aanmaken-account-voor-leidinggevende "mention")
+Geef aan dat de werkgever zelf een account moet aanmaken. Geef deze instructies door:[Aanmaken account voor leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/aanmaken-account-voor-leidinggevende "mention")
 {% endstep %}
 
 {% step %}
@@ -189,6 +190,7 @@ Geef aan dat de werkgever zelf een account moet aanmaken. Lees hier de instructi
 
 Vraag het e-mailadres opnieuw.
 
-Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.
+Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.\
+VRAGEN WAT HIER PRECIES MEE WORDT
 {% endstep %}
 {% endstepper %}
