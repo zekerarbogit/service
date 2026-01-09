@@ -100,6 +100,8 @@ _Deze rol kan alleen worden toegekend wanneer er een koppeling is met verzuim/HR
 
 Controleer of het e-mailadres op **alle 4 plekken** correct staat ingevuld.
 
+Kijk daarnaast of er een \&amp
+
 **Velden**
 
 * Email
@@ -130,7 +132,7 @@ Ga door bij [B2C controle](werkwijze-problemen-inloggen.md#microsoft-entra-id-b2
 
 ## 2FA problemen
 
-_Nog aan te vullen na input._&#x20;
+_B2C_
 
 ## Microsoft Entra ID - B2C controle
 
