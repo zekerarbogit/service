@@ -105,8 +105,6 @@ Kijk of er "\&amp;" in het e-mailadres staat zo **Ja** → ga dan naar [B2C cont
 
 Controleer of het e-mailadres op **alle 4 plekken** correct staat ingevuld.
 
-WELKE 4?&#x20;
-
 **Velden**
 
 * Email
@@ -190,12 +188,11 @@ Geef aan dat de werkgever zelf een account moet aanmaken. Geef deze instructies 
 
 Vraag het e-mailadres opnieuw.
 
-Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.<br>
+Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.\
+Als dit niet zo is dan moet er een klantgebruiker aangemaakt worden.&#x20;
 
-Planningsagenda -> Bedrijven ->&#x20;
+Voordat je dit doet is een uitgebreide verificatie belangrijk.
 
-Debiteurnummer/contractnummer vragen vanuit factuur, loonheffingsnummer. die haal je uit D'arbois.
 
-(moet misschien nieuw account aangemaakt worden)
 {% endstep %}
 {% endstepper %}
