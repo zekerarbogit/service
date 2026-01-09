@@ -6,11 +6,19 @@ description: >-
 
 # Verzuimrapportage maken
 
-{% embed url="https://app.supademo.com/demo/cmiok94pq00yz3n0i1q36pp2s" fullWidth="true" %}
+{% @supademo/embed demoId="cmiok94pq00yz3n0i1q36pp2s" url="https://app.supademo.com/demo/cmiok94pq00yz3n0i1q36pp2s" %}
 
 #### Belangrijk: Voorwaarde voor juiste cijfers
 
 Voor een correcte rapportage is het noodzakelijk dat alle medewerkers in ZekerArbo Online geregistreerd staan. Wij baseren de rapportages uitsluitend op de data in dit systeem. Verzuim of medewerkers die buiten ZekerArbo Online worden bijgehouden, worden niet meegenomen in de cijfers.
+
+#### Meld je bij een verzekeraar?&#x20;
+
+Wij ontvangen alleen gegevens van medewerkers die ziek zijn of in het verleden ziek zijn geweest. Medewerkers die nog nooit verzuim hebben gehad, zijn bij ons niet bekend.
+
+* Het probleem: Wij weten niet hoeveel medewerkers je in totaal in dienst hebt.
+* Het gevolg: Wij kunnen hierdoor geen verzuimpercentages berekenen.
+* Conclusie: Je rapportages zijn in dit geval onvolledig.
 
 #### Stappenplan
 

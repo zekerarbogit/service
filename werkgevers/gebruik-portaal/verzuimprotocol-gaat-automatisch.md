@@ -1,4 +1,8 @@
-# Verzuimprotocol
+---
+hidden: true
+---
+
+# Verzuimprotocol (gaat automatisch)
 
 In ZekerArbo Online kun je een verzuimprotocol activeren. Dit maakt het verzuimproces voor jou inzichtelijk en een stuk makkelijker.
 
