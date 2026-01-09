@@ -22,3 +22,7 @@ Via de koppeling worden verzuimberichten en dienstverbandberichten aangeleverd.
 In de dienstverbandberichten staan alleen dienstverbandgegevens en de gegevens van de leidinggevenden
 
 In de verzuimberichten staan de alle gegevens van de werknemer, de afdelingen en de leidinggevende van de werknemer.
+
+
+
+_Link naar document van Excel_
