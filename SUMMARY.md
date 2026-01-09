@@ -30,5 +30,6 @@
     * [Plan van aanpak opstellen](werkgevers/gebruik-portaal/plan-van-aanpak-opstellen.md)
     * [Eerstejaarsevaluatie](werkgevers/gebruik-portaal/eerstejaarsevaluatie.md)
     * [Eindevaluatie](werkgevers/gebruik-portaal/eindevaluatie.md)
+    * [Medewerker (deel)hersteld melden](werkgevers/gebruik-portaal/medewerker-deel-hersteld-melden.md)
   * [Verzuim](werkgevers/verzuim.md)
   * [Over ZekerArbo](werkgevers/over-zekerarbo.md)

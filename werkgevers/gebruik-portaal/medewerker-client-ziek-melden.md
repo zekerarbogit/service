@@ -4,7 +4,7 @@ description: Wil je een ziekmelding doorgeven?
 
 # Medewerker (cliënt) ziek melden
 
-{% embed url="https://app.supademo.com/demo/cmimzer8t000dyr0hub3tayyv" fullWidth="true" %}
+{% @supademo/embed demoId="cmimzer8t000dyr0hub3tayyv" url="https://app.supademo.com/demo/cmimzer8t000dyr0hub3tayyv" %}
 
 ### Wil je een ziekmelding doorgeven?
 
@@ -15,6 +15,8 @@ description: Wil je een ziekmelding doorgeven?
 **Heb je een verzuimverzekering?** Is onze arbodienst gekoppeld aan je verzuimverzekering? Meld ziekte of herstel dan niet via ons portaal, maar via het portaal van jouw verzekeraar. Wij krijgen de melding dan automatisch door.
 
 **Melden via ZekerArbo Online.** Heb je geen gekoppelde verzekering? Dan regel je de melding direct vanaf je dashboard.
+
+**Gekoppeld HR of verzuimsysteem:** Wanneer de knoppen **Ziek Melden** of **Hersteld Melden** niet zichtbaar zijn hoor je de ziekmelding via je eigen HR systeem te doen.&#x20;
 
 #### Stappenplan
 
