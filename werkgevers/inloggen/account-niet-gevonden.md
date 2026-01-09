@@ -11,3 +11,7 @@ Probeer je in te loggen en krijg je de melding _"We can't seem to find your acco
 
 * De oplossing: Vraag de beheerder (administrator) van jouw organisatie om een account voor je aan te maken in het verzuimportaal. Lees hier de instructie [aanmaken-account-voor-leidinggevende.md](../gebruik-portaal/aanmaken-account-voor-leidinggevende.md "mention")
 
+3. **Geen administrator bekend:** Het kan voorkomen dat er nog geen administrator is geregistreerd.
+
+* Neem contact op met contractadministratie via telefoon of mail.&#x20;
+
