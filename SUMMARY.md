@@ -34,5 +34,7 @@
     * [Medewerker (deel)hersteld melden](werkgevers/gebruik-portaal/medewerker-deel-hersteld-melden.md)
     * [Uitleg over gebruikersrollen](werkgevers/gebruik-portaal/uitleg-over-gebruikersrollen.md)
     * [Medewerker uit dienst melden](werkgevers/gebruik-portaal/medewerker-uit-dienst-melden.md)
+    * [Overname taken collega tijdens afwezigheid](werkgevers/gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
+    * [26 weeksprognose](werkgevers/gebruik-portaal/26-weeksprognose.md)
   * [Verzuim](werkgevers/verzuim.md)
   * [Over ZekerArbo](werkgevers/over-zekerarbo.md)
