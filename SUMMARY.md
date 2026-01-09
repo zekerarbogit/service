@@ -36,5 +36,6 @@
     * [Medewerker uit dienst melden](werkgevers/gebruik-portaal/medewerker-uit-dienst-melden.md)
     * [Overname taken collega tijdens afwezigheid](werkgevers/gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
     * [26 weeksprognose](werkgevers/gebruik-portaal/26-weeksprognose.md)
-  * [Verzuim](werkgevers/verzuim.md)
+  * [Verzuim](werkgevers/verzuim/README.md)
+    * [Planning vervolgafspraak](werkgevers/verzuim/planning-vervolgafspraak.md)
   * [Over ZekerArbo](werkgevers/over-zekerarbo.md)
