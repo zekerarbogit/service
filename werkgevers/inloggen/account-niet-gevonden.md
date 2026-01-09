@@ -13,5 +13,5 @@ Probeer je in te loggen en krijg je de melding _"We can't seem to find your acco
 
 3. **Geen administrator bekend:** Het kan voorkomen dat er nog geen administrator is geregistreerd.
 
-* Neem contact op met contractadministratie via telefoon of mail.&#x20;
+* [Neem contact op met ZekerArbo](https://www.zekerarbo.nl/contact/)&#x20;
 
