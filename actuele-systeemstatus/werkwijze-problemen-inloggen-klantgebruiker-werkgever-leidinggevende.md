@@ -101,17 +101,21 @@ _Deze rol kan alleen worden toegekend wanneer er een koppeling is met verzuim/HR
 {% step %}
 ### E-mailadres controleren
 
-Kijk of er "\&amp;" in het e-mailadres staat zo **Ja** → ga dan naar [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle) **Nee** → ga door met onderstaande stappen.
+**Controleer in Planningsagenda de gegevens van de gebruiker.**
 
-* "\&amp;" weghalen en B2C resetten
+1. **Controleer op leestekens** (`&amp;`) Kijk of er `&amp;` in het e-mailadres staat.
+   * **Ja**: Haal `amp;` weg en laat alleen `&` staan.
+2. **Controleer de 3 velden** Zorg dat het correcte e-mailadres op alle drie de plekken identiek staat ingevuld:
+   * Email
+   * Gebruikersnaam
+   * SSO ZekerArbo B2C Klanten
 
-Controleer of het e-mailadres op **alle 3 plekken** correct staat ingevuld.
+Wat is de vervolgstap?
 
-**Velden**
+**Heb je `&amp;` verwijderd uit het e-mailadres?** &#x20;
 
-* Email
-* Gebruikersnaam
-* SSO ZekerArbo B2C Klanten
+* **Ja** → Ga direct door naar het onderdeel&#x20;
+* **Nee**→  (het adres stond al goed): Ga verder met de stappen hieronder.
 {% endstep %}
 
 {% step %}
@@ -134,15 +138,16 @@ Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever
 {% endstep %}
 {% endstepper %}
 
-## Klant bestaat wel in B2C geen koppeling met PA
+## 2FA Reset & Account Herstel - Azure AD B2C
 
-## Combineren onderstaande
+Wanneer alle bovenstaande stappen zijn doorlopen en het account goed staat in planningsagenda kun je dit proces doorlopen
 
-## 2FA problemen
+**Gebruik dit stappenplan in twee situaties:**
 
-Het kan voorkomen dat de klant 2FA heeft ingesteld via de authenticator app of SMS, maar geen toegang meer heeft tot de 2FA methode.&#x20;
+1. **2FA Problemen**: De gebruiker heeft 2FA ingesteld (App of SMS) maar heeft hier geen toegang meer toe. De enige oplossing is een volledige reset in Azure AD B2C.
+2. **Inlogfouten**: De gebruiker krijgt de melding "Account niet gevonden" of blijft in een loop hangen.
 
-Op dit moment is de enige manier om dit op te lossen door de klant te resetten in Microsoft Entra ID B2C.
+Wie mag dit uitvoeren? Alleen onderstaande medewerkers hebben toegang om deze reset uit te voeren:
 
 {% hint style="warning" %}
 **De volgende medewerkers kunnen dit voor je oplossen:**
@@ -158,40 +163,9 @@ Tamara Baars
 
 [azure-ad-b2c-account-resetten-aanmaken-intern.md](azure-ad-b2c-account-resetten-aanmaken-intern.md "mention")
 
-## Microsoft Entra ID - B2C controle
 
-{% stepper %}
-{% step %}
-### B2C status bepalen
 
-{% hint style="success" %}
-**De volgende medewerkers kunnen dit voor je oplossen:**
-
-Bjorn Koeman
-
-Patricia Langhorst
-
-Inge Floor
-
-Tamara Baars
-{% endhint %}
-
-{% hint style="info" %}
-**Voor gebruikers die toegang hebben:**
-
-[azure-ad-b2c-account-resetten-aanmaken-intern.md](azure-ad-b2c-account-resetten-aanmaken-intern.md "mention")
-{% endhint %}
-
-* **Niet doorgeschoten** → voer het account op bij **B2C**.
-* **Wel doorgeschoten** → verwijder het account volledig en voer het opnieuw in.
-
-{% hint style="danger" %}
-Verwijderen en opnieuw opvoeren is ingrijpend. Doe dit alleen als het account al in B2C staat en de login blijft falen.
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-### Account niet gevonden
+## Account niet gevonden
 
 {% stepper %}
 {% step %}
