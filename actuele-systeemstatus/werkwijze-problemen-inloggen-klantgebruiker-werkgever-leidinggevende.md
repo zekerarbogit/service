@@ -149,6 +149,12 @@ Op dit moment is de enige manier om dit op te lossen door de klant te verwijdere
 Niet elke medewerker kan dit controleren, vraag na wie dit kan bij je leidinggevende.
 {% endhint %}
 
+{% hint style="info" %}
+**Voor gebruikers die toegang hebben:**
+
+[azure-ad-b2c-account-resetten-aanmaken-intern.md](azure-ad-b2c-account-resetten-aanmaken-intern.md "mention")
+{% endhint %}
+
 * **Niet doorgeschoten** → voer het account op bij **B2C**.
 * **Wel doorgeschoten** → verwijder het account volledig en voer het opnieuw in.
 
