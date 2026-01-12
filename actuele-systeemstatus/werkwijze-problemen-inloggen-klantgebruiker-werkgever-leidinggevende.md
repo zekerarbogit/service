@@ -10,7 +10,7 @@ Deze workflow beschrijft de stappen bij problemen met inloggen in het portaal.
 {% step %}
 ### Klantmelding
 
-De klant belt of mailt met een vraag of probleem over het portaal.
+De klant belt of mailt met een vraag of probleem over inloggen op het (werkgevers) klantportaal.&#x20;
 {% endstep %}
 
 {% step %}
@@ -103,13 +103,14 @@ _Deze rol kan alleen worden toegekend wanneer er een koppeling is met verzuim/HR
 
 Kijk of er "\&amp;" in het e-mailadres staat zo **Ja** → ga dan naar [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle) **Nee** → ga door met onderstaande stappen.
 
-Controleer of het e-mailadres op **alle 4 plekken** correct staat ingevuld.
+* "\&amp;" weghalen en B2C resetten
+
+Controleer of het e-mailadres op **alle 3 plekken** correct staat ingevuld.
 
 **Velden**
 
 * Email
 * Gebruikersnaam
-* Interne e-mail ten behoeve van wachtwoordreset
 * SSO ZekerArbo B2C Klanten
 {% endstep %}
 
@@ -132,6 +133,10 @@ Als de fout blijft: controleer of het account is doorgeschoten naar **B2C**.
 Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle).
 {% endstep %}
 {% endstepper %}
+
+## Klant bestaat wel in B2C geen koppeling met PA
+
+## Combineren onderstaande
 
 ## 2FA problemen
 
@@ -217,7 +222,7 @@ Geef aan dat de werkgever zelf een account moet aanmaken. Geef deze instructies 
 Vraag het e-mailadres opnieuw.
 
 Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat genoteerd.\
-Als dit niet zo is dan moet er een klantgebruiker aangemaakt worden.&#x20;
+Als dit niet zo is dan moet er een admin klantgebruiker aangemaakt worden.&#x20;
 
 Voordat je dit doet is een uitgebreide verificatie belangrijk.
 

@@ -67,4 +67,20 @@ Laat de gebruiker opnieuw inloggen op het portaal. Het account is nu gereset en 
 
 Hiervoor ontvangen ze instructies via de mail.&#x20;
 {% endstep %}
+
+{% step %}
+### Mail versturen
+
+Bestond het account in B2C?
+
+```
+// Some code
+```
+
+Account bestond niet mail
+
+```
+// Some code
+```
+{% endstep %}
 {% endstepper %}
