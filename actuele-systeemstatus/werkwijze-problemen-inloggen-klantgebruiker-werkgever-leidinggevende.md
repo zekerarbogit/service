@@ -114,7 +114,7 @@ Wat is de vervolgstap?
 
 **Heb je `&amp;` verwijderd uit het e-mailadres?** &#x20;
 
-* **Ja** → Ga direct door naar het onderdeel&#x20;
+* **Ja** → Ga direct door naar het onderdeel [#id-2fa-reset-and-account-herstel-azure-a-d-b2c](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#id-2fa-reset-and-account-herstel-azure-a-d-b2c "mention")
 * **Nee**→  (het adres stond al goed): Ga verder met de stappen hieronder.
 {% endstep %}
 
@@ -134,7 +134,7 @@ Kijk naar **Laatste inlog**. Is de klant eerder ingelogd?&#x20;
 
 Als de fout blijft: controleer of het account is doorgeschoten naar **B2C**.
 
-Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#microsoft-entra-id-b2c-controle).
+Ga door bij [#id-2fa-reset-and-account-herstel-azure-a-d-b2c](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#id-2fa-reset-and-account-herstel-azure-a-d-b2c "mention")
 {% endstep %}
 {% endstepper %}
 

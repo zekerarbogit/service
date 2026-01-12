@@ -15,7 +15,7 @@ Voor wie is dit artikel? Alleen voor medewerkers die toegang hebben tot Azure AD
 
 Je controleert hiermee of het account bestaat in Azure AD B2C. Zo niet, dan maak je het aan. Bestaat het wel, dan verwijder je het en maak je het opnieuw aan om de inlogproblemen op te lossen.
 
-#### **Stappenplan**
+## **Stappenplan**
 
 {% stepper %}
 {% step %}
@@ -27,8 +27,8 @@ Ga naar [portal.azure.com/portalzvdzsso.onmicrosoft.com](https://portal.azure.co
 {% step %}
 #### Navigeer naar Users
 
-* Open onder 'Azure services' de optie Microsoft Entra ID.
-* Klik in het linkermenu onder 'Manage' op Users.
+* Open onder 'Azure services' de optie **Microsoft Entra ID.**
+* Klik in het linkermenu onder 'Manage' op **Users**.
 {% endstep %}
 
 {% step %}
@@ -43,44 +43,68 @@ Ga naar [portal.azure.com/portalzvdzsso.onmicrosoft.com](https://portal.azure.co
 
 * **Ja:** Account verwijderen
   * Open de gebruiker en controleer goed of je de juiste persoon hebt.
-    * Klik op Delete om de gebruiker uit B2C te verwijderen.
-    * Klik nogmaals op Delete om de verwijdering definitief te maken.
-    * Ga terug naar de gebruikerslijst en klik op Refresh om de lijst bij te werken.
+    * Klik op **Delete** om de gebruiker uit B2C te verwijderen.
+    * Klik nogmaals op **Delete** om de verwijdering definitief te maken.
+    * Ga terug naar de gebruikerslijst en klik op **Refresh** om de lijst bij te werken.
 * **Nee:** Ga door naar volgende stap.&#x20;
 {% endstep %}
 
 {% step %}
 #### Nieuw account aanmaken
 
-* Klik in de gebruikerslijst op New User.
-* Selecteer Create new user.
-* Kies bij 'Choose a method' voor Email.
+* Klik in de gebruikerslijst op **New User.**
+* Selecteer **Create** **new user**.
+* Kies bij 'Choose a method' voor **Email**.
 * Vul het e-mailadres van de gebruiker in.
 * Vul de volledige naam in bij het veld 'Name'.
-* Klik op 'Create' om het account aan te maken.
+* Klik op **Create** om het account aan te maken.
 {% endstep %}
 
 {% step %}
 #### Afronden&#x20;
 
 Laat de gebruiker opnieuw inloggen op het portaal. Het account is nu gereset en de gebruiker kan het instelproces (wachtwoord en 2FA) opnieuw doorlopen.
-
-Hiervoor ontvangen ze instructies via de mail.&#x20;
 {% endstep %}
 
 {% step %}
-### Mail versturen
+#### Mail versturen
 
-Bestond het account in B2C?
-
-```
-// Some code
-```
-
-Account bestond niet mail
+**Als je account gereset hebt stuur dan deze mail.**&#x20;
 
 ```
-// Some code
+Onderwerp: Account voor het Werkgeversportaal van ZekerArbo opnieuw ingesteld
+Beste klant.
+ 
+Omdat je geen toegang (meer) had tot je 2FA middel (bijvoorbeeld een oud telefoonnummer), hebben we je account opnieuw ingesteld. Om weer toegang te krijgen tot je account, moet je eerst je wachtwoord wijzigen. Dit doe je als volgt:
+1.	Ga naar portaal.zekerarbo.nl en voer je e-mailadres is en klik op Volgende
+2.	Op het volgende scherm kun je kiezen voor de optie “Wachtwoord vergeten”. Via deze link kun je een nieuw wachtwoord instellen.
+ 
+Je account optimaal beveiligen
+Je 2FA-methode is nu teruggezet op e-mail. We raden aan om deze aan te passen naar SMS of Authenticator app. Nadat je het wachtwoord hebt gewijzigd, kun je de 2FA-methode aanpassen via deze link.
+ 
+Met vriendelijke groet,
+ZekerArbo
+ 
+
+```
+
+**Account bestond nog niet mail**
+
+```
+Onderwerp: Inloggen in het Werkgeversportaal van ZekerArbo
+Beste klant.
+ 
+We hebben je account opnieuw ingesteld. Om toegang te krijgen tot je account, moet je eerst je wachtwoord wijzigen. Dit doe je als volgt:
+1.	Ga naar portaal.zekerarbo.nl en voer je e-mailadres is en klik op Volgende.
+2.	Op het volgende scherm kun je kiezen voor de optie “Wachtwoord vergeten”. Via deze link kun je een nieuw wachtwoord instellen.
+ 
+Je account optimaal beveiligen
+Je 2FA-methode staat nu op e-mail. We raden aan om deze aan te passen naar SMS of Authenticator app. Nadat je het wachtwoord hebt gewijzigd, kun je de 2FA-methode aanpassen via deze link.
+ 
+Met vriendelijke groet,
+ZekerArbo
+ 
+
 ```
 {% endstep %}
 {% endstepper %}
