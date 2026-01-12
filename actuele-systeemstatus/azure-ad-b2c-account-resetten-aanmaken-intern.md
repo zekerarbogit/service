@@ -11,7 +11,7 @@ Voor wie is dit artikel? Alleen voor medewerkers die toegang hebben tot Azure AD
 #### **Wanneer gebruik je dit? Volg dit stappenplan in twee situaties:**
 
 1. Account niet gevonden: Een klantgebruiker (werkgever/medewerker) staat wel in Planningsagenda, maar krijgt de melding dat het account niet gevonden kan worden bij het inloggen.
-2. Geen toegang meer tot 2FA methode (authenticator app, telefoon, mail): De gebruiker heeft geen toegang meer tot en kan dit zelf niet herstellen.
+2. Geen toegang meer tot 2FA methode (authenticator app, telefoon): De gebruiker heeft geen toegang meer tot en kan dit zelf niet herstellen.
 
 Je controleert hiermee of het account bestaat in Azure AD B2C. Zo niet, dan maak je het aan. Bestaat het wel, dan verwijder je het en maak je het opnieuw aan om de inlogproblemen op te lossen.
 

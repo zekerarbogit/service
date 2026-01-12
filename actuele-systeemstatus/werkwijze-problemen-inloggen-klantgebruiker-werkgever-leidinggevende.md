@@ -135,7 +135,7 @@ Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever
 
 ## 2FA problemen
 
-Het kan voorkomen dat de klant 2FA heeft ingesteld via de authenticator app, SMS of e-mail, maar geen toegang meer heeft tot de 2FA methode.&#x20;
+Het kan voorkomen dat de klant 2FA heeft ingesteld via de authenticator app of SMS, maar geen toegang meer heeft tot de 2FA methode.&#x20;
 
 Op dit moment is de enige manier om dit op te lossen door de klant te resetten in Microsoft Entra ID B2C.
 
