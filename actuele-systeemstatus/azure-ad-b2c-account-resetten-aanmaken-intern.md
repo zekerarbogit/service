@@ -10,8 +10,8 @@ Voor wie is dit artikel? Alleen voor medewerkers die toegang hebben tot Azure AD
 
 #### **Wanneer gebruik je dit? Volg dit stappenplan in twee situaties:**
 
-1. Account niet gevonden: Een klantgebruiker (werkgever/medewerker) staat wel in Planningsagenda, maar krijgt de melding "Account niet gevonden" bij het inloggen.
-2. Authenticator reset: De gebruiker heeft geen toegang meer tot de Authenticator app en kan dit zelf niet herstellen.
+1. Account niet gevonden: Een klantgebruiker (werkgever/medewerker) staat wel in Planningsagenda, maar krijgt de melding dat het account niet gevonden kan worden bij het inloggen.
+2. Geen toegang meer tot 2FA methode (authenticator app, telefoon, mail): De gebruiker heeft geen toegang meer tot en kan dit zelf niet herstellen.
 
 Je controleert hiermee of het account bestaat in Azure AD B2C. Zo niet, dan maak je het aan. Bestaat het wel, dan verwijder je het en maak je het opnieuw aan om de inlogproblemen op te lossen.
 
@@ -57,12 +57,14 @@ Ga naar [portal.azure.com/portalzvdzsso.onmicrosoft.com](https://portal.azure.co
 * Kies bij 'Choose a method' voor Email.
 * Vul het e-mailadres van de gebruiker in.
 * Vul de volledige naam in bij het veld 'Name'.
-* Klik op Create om het account aan te maken.
+* Klik op 'Create' om het account aan te maken.
 {% endstep %}
 
 {% step %}
 #### Afronden&#x20;
 
-Laat de gebruiker opnieuw inloggen op het portaal. Het account is nu vers en de gebruiker kan het instelproces (wachtwoord en 2FA) opnieuw doorlopen.
+Laat de gebruiker opnieuw inloggen op het portaal. Het account is nu gereset en de gebruiker kan het instelproces (wachtwoord en 2FA) opnieuw doorlopen.
+
+Hiervoor ontvangen ze instructies via de mail.&#x20;
 {% endstep %}
 {% endstepper %}
