@@ -1,6 +1,5 @@
 ---
 if: visitor.claims.unsigned.isArboUser
-hidden: true
 ---
 
 # Azure AD B2C account resetten/aanmaken (Intern)
