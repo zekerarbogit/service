@@ -37,6 +37,7 @@
     * [Overname taken collega tijdens afwezigheid](werkgevers/gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
     * [26 weeksprognose](werkgevers/gebruik-portaal/26-weeksprognose.md)
     * [Gebruiker verwijderen](werkgevers/gebruik-portaal/gebruiker-verwijderen.md)
+    * [Uitnodiging sturen gebruiker toevoegen](werkgevers/gebruik-portaal/uitnodiging-sturen-gebruiker-toevoegen.md)
   * [Verzuim](werkgevers/verzuim/README.md)
     * [Planning vervolgafspraak](werkgevers/verzuim/planning-vervolgafspraak.md)
   * [Over ZekerArbo](werkgevers/over-zekerarbo.md)
