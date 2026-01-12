@@ -135,9 +135,23 @@ Ga door bij [B2C controle](werkwijze-problemen-inloggen-klantgebruiker-werkgever
 
 ## 2FA problemen
 
-Het kan voorkomen dat de klant 2FA heeft ingesteld via de authenticator app maar geen toegang meer heeft, of dat de code niet meer werkt.&#x20;
+Het kan voorkomen dat de klant 2FA heeft ingesteld via de authenticator app, SMS of e-mail, maar geen toegang meer heeft tot de 2FA methode.&#x20;
 
-Op dit moment is de enige manier om dit op te lossen door de klant te verwijderen in Microsoft Entra ID B2C en opnieuw toe te voegen. Vraag aan je leidinggevende welke collega dit voor je kan oplossen.&#x20;
+Op dit moment is de enige manier om dit op te lossen door de klant te resetten in Microsoft Entra ID B2C.
+
+{% hint style="warning" %}
+**De volgende medewerkers kunnen dit voor je oplossen:**
+
+Bjorn Koeman
+
+Patricia Langhorst
+
+Inge Floor
+
+Tamara Baars
+{% endhint %}
+
+[azure-ad-b2c-account-resetten-aanmaken-intern.md](azure-ad-b2c-account-resetten-aanmaken-intern.md "mention")
 
 ## Microsoft Entra ID - B2C controle
 
@@ -146,7 +160,15 @@ Op dit moment is de enige manier om dit op te lossen door de klant te verwijdere
 ### B2C status bepalen
 
 {% hint style="success" %}
-Niet elke medewerker kan dit controleren, vraag na wie dit kan bij je leidinggevende.
+**De volgende medewerkers kunnen dit voor je oplossen:**
+
+Bjorn Koeman
+
+Patricia Langhorst
+
+Inge Floor
+
+Tamara Baars
 {% endhint %}
 
 {% hint style="info" %}
