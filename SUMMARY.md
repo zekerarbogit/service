@@ -21,7 +21,7 @@
     * [Autorisaties toekennen leidinggevende](werkgevers/gebruik-portaal/autorisaties-toekennen-leidinggevende.md)
     * [Medewerker (cliënt) hersteld melden](werkgevers/gebruik-portaal/medewerker-client-hersteld-melden.md)
     * [Gegevens missen of staan dubbel in het portaal](werkgevers/gebruik-portaal/gegevens-missen-of-staan-dubbel-in-het-portaal.md)
-    * [Plan van aanpak](werkgevers/gebruik-portaal/plan-van-aanpak.md)
+    * [Plan van Aanpak maken (WvP)](werkgevers/gebruik-portaal/plan-van-aanpak-maken-wvp.md)
     * [Plan van aanpak (via workflow)](werkgevers/gebruik-portaal/plan-van-aanpak-via-workflow.md)
     * [Verzuimprotocol (gaat automatisch)](werkgevers/gebruik-portaal/verzuimprotocol-gaat-automatisch.md)
     * [Verzuimrapportage maken](werkgevers/gebruik-portaal/verzuimrapportage-maken.md)
