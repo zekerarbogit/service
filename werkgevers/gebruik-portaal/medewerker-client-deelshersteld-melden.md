@@ -2,7 +2,6 @@
 description: >-
   Gaat een zieke medewerker weer (gedeeltelijk) aan het werk? Fijn! Dit geef je
   eenvoudig door in het portaal.
-hidden: true
 ---
 
 # Medewerker (cliënt) deelshersteld melden
