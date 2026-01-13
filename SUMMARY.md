@@ -19,7 +19,7 @@
     * [Medewerker (cliënt) ziek melden](werkgevers/gebruik-portaal/medewerker-client-ziek-melden.md)
     * [Aanmaken account voor leidinggevende](werkgevers/gebruik-portaal/aanmaken-account-voor-leidinggevende.md)
     * [Autorisaties toekennen leidinggevende](werkgevers/gebruik-portaal/autorisaties-toekennen-leidinggevende.md)
-    * [Medewerker hersteld melden](werkgevers/gebruik-portaal/medewerker-hersteld-melden.md)
+    * [Medewerker (cliënt) hersteld melden](werkgevers/gebruik-portaal/medewerker-client-hersteld-melden.md)
     * [Gegevens missen of staan dubbel in het portaal](werkgevers/gebruik-portaal/gegevens-missen-of-staan-dubbel-in-het-portaal.md)
     * [Plan van aanpak](werkgevers/gebruik-portaal/plan-van-aanpak.md)
     * [Plan van aanpak (via workflow)](werkgevers/gebruik-portaal/plan-van-aanpak-via-workflow.md)
