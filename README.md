@@ -1,124 +1,40 @@
-# Actuele systeemstatus
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/OxTozy5N0xydbugfyf3h/
+---
 
-We zijn overgestapt op ons nieuwe systeem: Planningsagenda. De migratie verloopt niet vlekkeloos en dit brengt helaas technische uitdagingen met zich mee.
+# Werkgevers
 
-Drukte bij de klantenservice Door deze situatie is het momenteel erg druk bij onze supportafdeling. De wachttijd aan de telefoon en de reactietijd op e-mails is langer dan je van ons gewend bent.
+<h2 align="center">Hoe kunnen we je helpen?</h2>
 
-Heb je een vraag?
+<p align="center">Heb je een vraag? Grote kans dat het antwoord hier in de kennisbank staat. We raden je aan eerst de zoekfunctie bovenaan te gebruiken.</p>
 
-* <i class="fa-message-minus">:message-minus:</i> Chat met Fay: Stel je vraag rechtsonder aan onze digitale collega.
-* <i class="fa-book">:book:</i> Kennisbank: Kijk eerst op onze [https://service.zekerarbo.nl/](https://service.zekerarbo.nl/ "mention") voor antwoorden op vragen over inloggen en activeren.
+<p align="center"> <a href="https://www.zekerarbo.nl/medewerkers/contact-medewerker/" class="button secondary">Neem contact op</a></p>
 
-Onze excuses voor het ongemak en dank voor je begrip.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><i class="fa-right-to-bracket">:right-to-bracket:</i></td><td><strong>Vragen over inloggen</strong></td><td>Je hebt problemen met het inloggen op je portaal</td><td><a href="werkgevers/inloggen/">inloggen</a></td><td><a href=".gitbook/assets/inlogproblemen.webp">inlogproblemen.webp</a></td></tr><tr><td><h4><i class="fa-envelope-open">:envelope-open:</i></h4></td><td><strong>Eerste gebruik portaal</strong></td><td>Krijg hulp bij het activeren van je portaal</td><td><a href="werkgevers/eerste-gebruik-portaal/">eerste-gebruik-portaal</a></td><td><a href=".gitbook/assets/portaal.webp">portaal.webp</a></td></tr><tr><td><h4><i class="fa-rectangle-history-circle-user">:rectangle-history-circle-user:</i></h4></td><td><strong>Gebruik portaal</strong></td><td>Waar kan ik alles vinden?</td><td><a href="werkgevers/gebruik-portaal/">gebruik-portaal</a></td><td><a href=".gitbook/assets/portaalwerk.png">portaalwerk.png</a></td></tr><tr><td><i class="fa-z">:z:</i></td><td><strong>Over ZekerArbo</strong></td><td>Meer over wat we doen</td><td></td><td><a href=".gitbook/assets/Zekerarbo.webp">Zekerarbo.webp</a></td></tr></tbody></table>
 
-***
+### _Veelgestelde vragen_
 
-#### Bekende problemen en status
+#### _Inloggen_
 
-Hieronder zie je welke problemen bij ons bekend zijn, hoeveel klanten hier last van hebben en wanneer we verwachten dat dit is opgelost.
+{% include ".gitbook/includes/werkgever-faq-inloggen.md" %}
 
-{% include ".gitbook/includes/gegevens-missen.md" %}
+#### _Algemene vragen_
 
-<details>
+{% include ".gitbook/includes/werkgever-faq-algemeen.md" %}
 
-<summary><strong>Clientportaal (Medewerkers): Documenten missen</strong></summary>
-
-In jouw persoonlijke omgeving ('Mijn ZekerArbo') kan het voorkomen dat je nog niet al je documenten ziet staan.
-
-* Status: Opgelost.
-* Impact: Klein deel gebruikers
-* Actie nodig? Nee. Je hoeft hiervoor geen melding te maken.
-
-</details>
-
-<details>
-
-<summary><strong>Inloggen: Geen SMS-verificatiecode ontvangen</strong></summary>
-
-Je kunt niet inloggen omdat de SMS-code niet binnenkomt. De oorzaak is vaak een verouderd of onjuist 06-nummer in ons systeem.
-
-* Status: Oplossing beschikbaar.
-* Impact: Klein deel gebruikers
-* Verwachte oplossing: Direct (na aanpassing nummer).
-* Actie nodig? Ja.
-  * Ben je Medewerker? Vraag je werkgever om je nummer in het portaal aan te passen. Hierna werkt het direct.
-  * Ben je Werkgever? Stuur een e-mail met je bedrijfsnaam en het juiste 06-nummer naar [contractadministratie@zekerarbo.nl](mailto:contractadministratie@zekerarbo.nl). Wij passen dit voor je aan.
-
-</details>
-
-<details>
-
-<summary><strong>Inloggen: Wachtwoord of link werkt niet</strong></summary>
-
-Problemen met activeren via de mail of oude wachtwoorden.
-
-* Status: Oplossing beschikbaar.
-* Impact: Veel gebruikers.
-* Verwachte oplossing: Direct (zelf op te lossen).
-* Actie nodig? Ja. Gebruik de functie 'Wachtwoord vergeten' op de inlogpagina om zelf direct een nieuw wachtwoord en toegang te regelen.
-
-</details>
-
-<details>
-
-<summary><strong>Werkgeversportaal(verzuim): Melding "fout" na inloggen</strong></summary>
-
-Zie je na het inloggen direct de melding "fout" of blijft het scherm wit? Dit probleem wordt meestal veroorzaakt door oude gegevens in je browser.
-
-* Status: Oplossing beschikbaar.
-* Impact: Enkele gebruikers.
-* Verwachte oplossing: Direct (zelf op te lossen).
-* Actie nodig? Ja. Probeer de volgende stappen:
-  1. Leeg de cookies en cache van je browser.
-  2. Probeer in te loggen via een Incognito-venster (Privé-venster).
-  3. Lukt het nog niet? Probeer het dan via een andere internetbrowser of computer.
-
-</details>
-
-<details>
-
-<summary><strong>Achterstand e-mailafhandeling</strong></summary>
-
-Door de drukte rondom de overgang naar het nieuwe systeem hebben we momenteel een achterstand in het verwerken van e-mails. Hierdoor kan het gebeuren dat urgente vragen of verzoeken later worden opgepakt dan je van ons gewend bent.
-
-* Status: Er wordt aan gewerkt (Extra capaciteit ingezet).
-* Impact: Langere wachttijden voor reactie op e-mails.
-* Verwachte oplossing: We werken met een vergroot team hard om de achterstand in te lopen.
-* Actie nodig? Heb je een dringende vraag of spoedeisende situatie? Bel ons dan in plaats van te mailen. Zo voorkomen we dat jouw dringende vraag ondergesneeuwd raakt. Voor niet-dringende vragen vragen we om je geduld.
-
-</details>
-
-<details>
-
-<summary><strong>Opgelost - Problemen met resetten Tweefactor Authenticatie (2FA)</strong></summary>
-
-Het komt voor dat medewerkers geen toegang meer hebben tot hun ingestelde authenticator app (bijvoorbeeld door een nieuwe telefoon) en hierdoor niet meer kunnen inloggen.
-
-Omdat medewerkers hierdoor niet kunnen inloggen en dus hun documenten, terugkoppelingen en afspraken niet kunnen inzien, heeft het oplossen van dit probleem voor ons top prioriteit.
-
-* Status: **Opgelost**
-* Impact: Medewerkers kunnen niet inloggen en hebben geen toegang tot hun dossier.
-* **Oplossing**: Kies tijdens het inloggen voor 'Of verzend code via SMS' om een SMS te ontvangen met 2FA code.
-
-
-
-</details>
-
-<details>
-
-<summary><strong>Dubbele medewerkers in portaal</strong></summary>
-
-Sommige werkgevers zien medewerkers (cliënten) momenteel dubbel in het overzicht van ZekerArbo Online staan.
-
-Wat is er aan de hand? Door de migratie worden sommige dossiers onterecht twee keer getoond. Vaak is één van de twee dossiers leeg (geen historie of documenten).
-
-* **Wat moet je doen?**
-  * Controleer beide regels van de medewerker.&#x20;
-  * Gebruik alleen het dossier waar gegevens in staan.&#x20;
-  * Het lege dossier kun je negeren; voer hier geen acties op uit.
-* Status & Oplossing: We werken aan een automatische correctie om de dubbele, lege dossiers te verwijderen.&#x20;
-* Verwachte oplossing: Medio januari.&#x20;
-
-Je hoeft hiervoor geen melding te maken bij de supportdesk.
-
-</details>
