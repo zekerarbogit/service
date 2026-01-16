@@ -49,7 +49,7 @@ Zoek het account op via het e-mailadres.
 
 Om welk probleem gaat het?&#x20;
 
-* **Wachtwoord werkt niet →** ga door naar volgende stap
+* **Wachtwoord werkt niet/problemen inloggen →** ga door naar volgende stap
 * **2FA werkt niet →** ga door naar [2FA problemen](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#id-2fa-problemen)
 * **Geen medewerkers zichtbaar →** ga door naar [#geen-medewerkers-zichtbaar](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#geen-medewerkers-zichtbaar "mention")
 {% endstep %}
@@ -65,11 +65,13 @@ Open de opgezochte gebruiker in Planningsagenda door erop te klikken, kies vervo
 
 Staat de rol op **Migratie**? Pas deze aan naar rol **1, 2, 3 of 4**.
 
-Bekijk of er andere gebruikers zijn in Planningsagenda bij hetzelfde bedrijf.&#x20;
+#### Bekijk of er andere gebruikers zijn in Planningsagenda bij hetzelfde bedrijf.&#x20;
 
-Staan daar WG rollen tussen? Ken dan een LG rol toe. Geef aan dat de authorisaties en rollen door een collega aangepast kunnen worden.&#x20;
+Zijn er andere gebruikers en zitten er **WG** rollen tussen?
 
+**Ja →** Ken dan een **LG** rol toe. Verwijs naar [Autorisaties toekennen leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/autorisaties-toekennen-leidinggevende "mention") en geef aan dat de autorisaties en rollen door een collega aangepast kunnen worden.
 
+**Nee →** Kijk in het bedrijf of er een contactpersoon geregistreerd staat, wanneer dit contactpersoon overeen komt met de beller, dan mag je rol **WG** toekennen. Anders door naar **Contractadministratie.**&#x20;
 
 {% hint style="danger" %}
 **1 WG - Geen koppeling met systeem WG - Inzage op organisatieniveau - ZekerArbo**
@@ -146,14 +148,26 @@ Ga door bij [#id-2fa-reset-and-account-herstel-azure-a-d-b2c](werkwijze-probleme
 {% endstep %}
 {% endstepper %}
 
-## 2FA Reset & Account Herstel - Azure AD B2C
+## 2FA Problemen
+
+**2FA Problemen**: De gebruiker heeft 2FA ingesteld (App of SMS) maar heeft hier geen toegang meer toe.&#x20;
+
+{% hint style="warning" %}
+Het komt vaak voor dat wanneer er wordt gevraagd om de authenticatie code er niet op 'code verifiëren' wordt gedrukt maar op 'Doorgaan'. Vraag de klant om op 'code verifiëren' te drukken. Controleer dit eerst voordat je doorgaat naar volgende stap.
+
+![](../.gitbook/assets/image.png)
+{% endhint %}
+
+De enige oplossing is een volledige reset in Azure AD B2C. Lees hieronder hoe dat moet.&#x20;
+
+## Account Herstel - Azure AD B2C
 
 Wanneer alle bovenstaande stappen zijn doorlopen en het account goed staat in planningsagenda kun je dit proces doorlopen
 
 **Gebruik dit stappenplan in twee situaties:**
 
 1. **2FA Problemen**: De gebruiker heeft 2FA ingesteld (App of SMS) maar heeft hier geen toegang meer toe. De enige oplossing is een volledige reset in Azure AD B2C.
-2. **Inlogfouten**: De gebruiker krijgt de melding "Account niet gevonden" of blijft in een loop hangen.
+2. **Inlogfouten**: De gebruiker krijgt de melding "_**An account could not be found for the provided user ID.**_"
 
 Wie mag dit uitvoeren? Alleen onderstaande medewerkers hebben toegang om deze reset uit te voeren:
 
@@ -195,7 +209,7 @@ Zoek dan op **bedrijfsnaam**.
 {% step %}
 ### Ander account gevonden onder bedrijfsnaam
 
-Geef aan dat de werkgever zelf een account moet aanmaken. Geef deze instructies door:[Aanmaken account voor leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/aanmaken-account-voor-leidinggevende "mention")
+Ga wel na of dit andere account een **WG** rol heeft, zo ja: Geef aan dat de werkgever zelf een account moet aanmaken. Geef deze instructies door:[Aanmaken account voor leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/aanmaken-account-voor-leidinggevende "mention")
 {% endstep %}
 
 {% step %}
@@ -207,6 +221,10 @@ Controleer bij **Bedrijven** of het e-mailadres als **contactpersoon** staat gen
 Als dit niet zo is dan moet er een admin klantgebruiker aangemaakt worden.&#x20;
 
 Voordat je dit doet is een uitgebreide verificatie belangrijk.
+
+In dit geval kan het beste de klant doorgezet worden naar de contractadministratie.&#x20;
+
+
 
 
 {% endstep %}
