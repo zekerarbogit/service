@@ -4,7 +4,9 @@ if: visitor.claims.unsigned.isArboUser
 
 # Werkwijze problemen inloggen - Klantgebruiker (werkgever/leidinggevende)
 
-Deze workflow beschrijft de stappen bij problemen met inloggen in het portaal.
+Deze handleiding is onderdeel van 'First Time Fix'. ZekerArbo heeft als doel de klant in één keer te kunnen gaan helpen, door meer rechten en mogelijkheden te geven om een probleem direct op te lossen.&#x20;
+
+Deze workflow beschrijft de stappen bij problemen met inloggen in het portaal of problemen met zichtbaarheid van documenten.
 
 {% stepper %}
 {% step %}
@@ -49,7 +51,7 @@ Om welk probleem gaat het?&#x20;
 
 * **Wachtwoord werkt niet →** ga door naar volgende stap
 * **2FA werkt niet →** ga door naar [2FA problemen](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#id-2fa-problemen)
-* **Geen medewerkers zichtbaar →** verwijs klant naar [Autorisaties toekennen leidinggevende](https://app.gitbook.com/s/hkUne0pNVHithYNGENV4/werkgevers/gebruik-portaal/autorisaties-toekennen-leidinggevende "mention")
+* **Geen medewerkers zichtbaar →** ga door naar [#geen-medewerkers-zichtbaar](werkwijze-problemen-inloggen-klantgebruiker-werkgever-leidinggevende.md#geen-medewerkers-zichtbaar "mention")
 {% endstep %}
 
 {% step %}
@@ -62,6 +64,12 @@ Open de opgezochte gebruiker in Planningsagenda door erop te klikken, kies vervo
 ### Rol controleren
 
 Staat de rol op **Migratie**? Pas deze aan naar rol **1, 2, 3 of 4**.
+
+Bekijk of er andere gebruikers zijn in Planningsagenda bij hetzelfde bedrijf.&#x20;
+
+Staan daar WG rollen tussen? Ken dan een LG rol toe. Geef aan dat de authorisaties en rollen door een collega aangepast kunnen worden.&#x20;
+
+
 
 {% hint style="danger" %}
 **1 WG - Geen koppeling met systeem WG - Inzage op organisatieniveau - ZekerArbo**
@@ -203,3 +211,10 @@ Voordat je dit doet is een uitgebreide verificatie belangrijk.
 
 {% endstep %}
 {% endstepper %}
+
+## Geen medewerkers zichtbaar
+
+Er kunnen meerdere redenen zijn dat er geen medewerkers zichtbaar zien.&#x20;
+
+1. Klant heeft een LG gebruikersrol en heeft nog geen afdelingen/cliënten toegekend in de authorisatie.&#x20;
+2. Bij het bedrijf bestaat er geen werkgeversrol, dus de authorisaties kunnen niet door de klant worden ingesteld.
