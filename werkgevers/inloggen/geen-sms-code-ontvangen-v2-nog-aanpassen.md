@@ -1,5 +1,6 @@
 ---
 hidden: true
+noIndex: true
 ---
 
 # Geen SMS code ontvangen V2 (nog aanpassen)
