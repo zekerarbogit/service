@@ -8,7 +8,7 @@
     * [Geen activatiemail ontvangen](werkgevers/inloggen/geen-activatiemail-ontvangen.md)
     * [Geen SMS code ontvangen](werkgevers/inloggen/geen-sms-code-ontvangen.md)
     * [Geen SMS code ontvangen V2 (nog aanpassen)](werkgevers/inloggen/geen-sms-code-ontvangen-v2-nog-aanpassen.md)
-    * [Tweefactor authenticatie instellen (2FA)](werkgevers/inloggen/tweefactor-authenticatie-instellen-2fa.md)
+    * [Tweefactor authenticatie instellen of wijzigen (2FA)](werkgevers/inloggen/tweefactor-authenticatie-instellen-of-wijzigen-2fa.md)
     * [Account activeren met tijdelijk wachtwoord](werkgevers/eerste-gebruik-portaal/account-activeren-met-tijdelijk-wachtwoord.md)
     * [Account niet gevonden](werkgevers/inloggen/account-niet-gevonden.md)
     * [Wachtwoord uit activatiemail werkt niet](werkgevers/inloggen/wachtwoord-uit-activatiemail-werkt-niet.md)
