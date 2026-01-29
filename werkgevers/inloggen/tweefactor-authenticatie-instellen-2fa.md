@@ -1,5 +1,5 @@
 ---
-hidden: true
+noIndex: true
 ---
 
 # Tweefactor authenticatie instellen (2FA)
