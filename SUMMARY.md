@@ -38,4 +38,4 @@
     * [Ik heb geen Plan van Aanpak](medewerkers/verzuim/ik-heb-geen-plan-van-aanpak.md)
     * [Second opinion bij de bedrijfsarts](medewerkers/verzuim/second-opinion-bij-de-bedrijfsarts.md)
     * [Jouw medisch dossier en werknemergegevens](medewerkers/verzuim/jouw-medisch-dossier-en-werknemergegevens.md)
-    * [Videobellen. Wanneer wel en wanneer toch liever niet?](medewerkers/verzuim/videobellen.-wanneer-wel-en-wanneer-toch-liever-niet.md)
+    * [Ziekte bij zwangerschap en bevalling](medewerkers/verzuim/ziekte-bij-zwangerschap-en-bevalling.md)
