@@ -1,2 +1,0 @@
-# Eerste gebruik portaal
-
