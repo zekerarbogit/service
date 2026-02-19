@@ -1,8 +1,3 @@
----
-hidden: true
-noIndex: true
----
-
 # Uitleg over gebruikersrollen
 
 In ZekerArbo Online werken we met verschillende rollen. Het is belangrijk om de juiste rol te kiezen voor jezelf en je collega's. Zo bepaal je wie welke gegevens mag inzien en wie instellingen mag aanpassen.
@@ -26,7 +21,7 @@ Er wordt een strikt onderscheid gemaakt tussen situaties zonder systeemkoppeling
 
 ***
 
-#### Met systeemkoppeling -)
+#### Met systeemkoppeling
 
 {% hint style="warning" %}
 #### Gebruik deze rollen alleen als er een actieve koppeling is tussen jouw eigen HR- of verzuimsysteem en ZekerArbo.
