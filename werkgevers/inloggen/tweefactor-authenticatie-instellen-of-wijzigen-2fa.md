@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Tweefactor authenticatie instellen of wijzigen (2FA)
 
 Om de veiligheid van je gegevens in ZekerArbo Online te waarborgen, is het gebruik van tweestapsverificatie verplicht. Wil je overstappen van SMS naar de Authenticator app of andersom? Volg dan onderstaande stappen.
