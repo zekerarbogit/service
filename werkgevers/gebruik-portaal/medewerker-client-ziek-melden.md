@@ -4,7 +4,7 @@ description: Wil je een ziekmelding doorgeven?
 
 # Medewerker (cliënt) ziek melden
 
-{% @supademo/embed demoId="cmimzer8t000dyr0hub3tayyv" url="https://app.supademo.com/demo/cmimzer8t000dyr0hub3tayyv" %}
+{% @supademo/embed demoId="cmimzer8t000dyr0hub3tayyv" url="https://app.supademo.com/demo/cmimzer8t000dyr0hub3tayyv" fullWidth="true" %}
 
 ### Wil je een ziekmelding doorgeven?
 

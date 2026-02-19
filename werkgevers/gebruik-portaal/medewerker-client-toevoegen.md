@@ -6,7 +6,7 @@ description: >-
 
 # Medewerker (cliënt) toevoegen
 
-{% @supademo/embed %}
+{% @supademo/embed demoId="cmimyverz06nj010i14q3p4n6" url="https://app.supademo.com/demo/cmimyverz06nj010i14q3p4n6" fullWidth="true" %}
 
 #### Stappenplan
 
