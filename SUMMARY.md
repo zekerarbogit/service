@@ -25,7 +25,7 @@
     * [Verzuimrapportage maken](werkgevers/gebruik-portaal/verzuimrapportage-maken.md)
     * [Terugkoppeling van bedrijfsarts of POB](werkgevers/gebruik-portaal/terugkoppeling-van-bedrijfsarts-of-pob.md)
     * [Verzuimstaat verzekeraar opvragen](werkgevers/gebruik-portaal/verzuimstaat-verzekeraar-opvragen.md)
-    * [E-mail meldingen in of uitschakelen](werkgevers/gebruik-portaal/e-mail-meldingen-in-of-uitschakelen.md)
+    * [E-mail meldingen in- of uitschakelen](werkgevers/gebruik-portaal/e-mail-meldingen-in-of-uitschakelen.md)
     * [Eerstejaarsevaluatie](werkgevers/gebruik-portaal/eerstejaarsevaluatie.md)
     * [Eindevaluatie](werkgevers/gebruik-portaal/eindevaluatie.md)
     * [Medewerker (cliënt) deelshersteld melden](werkgevers/gebruik-portaal/medewerker-client-deelshersteld-melden.md)
