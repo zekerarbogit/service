@@ -20,7 +20,3 @@ metaLinks:
 
 {% include ".gitbook/includes/werkgever-faq-inloggen.md" %}
 
-#### _Algemene vragen_
-
-{% include ".gitbook/includes/werkgever-faq-algemeen.md" %}
-
