@@ -24,7 +24,7 @@
     * [Medewerker (cliënt) hersteld melden](werkgevers/gebruik-portaal/medewerker-client-hersteld-melden.md)
     * [Overname taken collega tijdens afwezigheid](werkgevers/gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
     * [Plan van Aanpak maken (WvP)](werkgevers/gebruik-portaal/plan-van-aanpak-maken-wvp.md)
-    * [Verzuimprotocol](werkgevers/gebruik-portaal/verzuimprotocol.md)
+    * [Verzuimprotocol](werkgevers/gebruik-portaal/verzuimprotocol-gaat-automatisch.md)
     * [Verzuimrapportage maken](werkgevers/gebruik-portaal/verzuimrapportage-maken.md)
     * [Terugkoppeling van bedrijfsarts of POB](werkgevers/gebruik-portaal/terugkoppeling-van-bedrijfsarts-of-pob.md)
     * [Verzuimstaat verzekeraar opvragen](werkgevers/gebruik-portaal/verzuimstaat-verzekeraar-opvragen.md)
