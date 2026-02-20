@@ -1,8 +1,3 @@
----
-hidden: true
-noIndex: true
----
-
 # Overname taken collega tijdens afwezigheid
 
 Gaat een leidinggevende of HR-medewerker met verlof of is deze zelf afwezig? Dan is het belangrijk dat een collega de taken in het portaal kan overnemen. Om dit goed te laten verlopen, moet de vervangende collega de juiste rechten en autorisaties hebben voor de betreffende medewerkers.
