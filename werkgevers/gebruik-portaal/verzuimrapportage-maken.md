@@ -22,8 +22,8 @@ Wij ontvangen alleen gegevens van medewerkers die ziek zijn of in het verleden z
 
 #### Stappenplan
 
-1. Log in op het verzuimportaal en klik links in het menu op Rapportages.
-2. Klik op het keuzemenu (dropdown) en kies voor Basis verzuimrapportage werkgever.
+1. Log in op het verzuimportaal en klik links in het menu op **Rapportages**.
+2. Klik op het keuzemenu (dropdown) en kies voor **Basis verzuimrapportage werkgever**.
 3. Klik op het veld voor de datum en selecteer in de agenda de periode waarover je wilt rapporteren.
 4. Vink de onderdelen aan die je in het rapport wilt zien.
 
@@ -33,5 +33,5 @@ _Tip:_ Wij raden aan om Kerngetallen new en Kerngetallen jaarcijfers te selecter
 
 5. Selecteer de juiste werkgever.
 6. Kies de medewerkers die meegenomen moeten worden (meestal selecteer je hier iedereen).
-7. Scroll terug naar boven en klik op Genereren.
+7. Scroll terug naar boven en klik op **Genereren**.
 8. Kies het gewenste formaat: Excel, PDF of versturen per E-mail.

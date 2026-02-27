@@ -6,7 +6,7 @@ description: >-
 
 # Verzuimstaat verzekeraar opvragen
 
-{% embed url="https://app.supademo.com/demo/cmiolkcoy0073450i8d3avpaz" fullWidth="true" %}
+{% @supademo/embed demoId="cmiolkcoy0073450i8d3avpaz" url="https://app.supademo.com/demo/cmiolkcoy0073450i8d3avpaz" %}
 
 #### Belangrijk: Voorwaarde voor juiste cijfers&#x20;
 
@@ -14,10 +14,10 @@ Voor een correcte staat is het noodzakelijk dat alle verzuimende medewerkers in 
 
 #### Stappenplan
 
-1. Log in op het verzuimportaal en klik links in het menu op Rapportages.
+1. Log in op het verzuimportaal en klik links in het menu op **Rapportages**.
 2. Klik op het keuzemenu (dropdown) en kies voor Verzuimstaat voor verzekeraar.
 3. Klik op het datumveld en selecteer in de agenda de periode die je nodig hebt.
 4. Selecteer het juiste bedrijf en de medewerkers die op de staat moeten komen.
-5. Scroll terug naar boven en klik op Genereren.
-6. Klik vervolgens op de knop PDF om het rapport direct te genereren en te downloaden.
+5. Scroll terug naar boven en klik op **Genereren**.
+6. Klik vervolgens op de knop **PDF** om het rapport direct te genereren en te downloaden.
 

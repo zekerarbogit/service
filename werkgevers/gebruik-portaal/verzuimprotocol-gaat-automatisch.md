@@ -1,7 +1,3 @@
----
-noRobotsIndex: true
----
-
 # Verzuimprotocol
 
 ### Altijd op tijd volgens de wet
