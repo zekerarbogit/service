@@ -36,6 +36,7 @@
     * [26 weeksprognose](werkgevers/gebruik-portaal/26-weeksprognose.md)
     * [Uitnodiging sturen gebruiker toevoegen](werkgevers/gebruik-portaal/uitnodiging-sturen-gebruiker-toevoegen.md)
     * [Medewerker zwanger melden](werkgevers/gebruik-portaal/medewerker-zwanger-melden.md)
+    * [Medewerker (cliënt) bewerken](werkgevers/gebruik-portaal/medewerker-client-bewerken.md)
   * [Verzuim](werkgevers/verzuim/README.md)
     * [Planning vervolgafspraak](werkgevers/verzuim/planning-vervolgafspraak.md)
   * [Over ZekerArbo](werkgevers/over-zekerarbo.md)
