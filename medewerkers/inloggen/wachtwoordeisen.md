@@ -4,7 +4,3 @@
 
 
 
-{% if visitor.claims.unsigned.isArboUser === true  %}
-isArboUser
-{% endif %}
-
