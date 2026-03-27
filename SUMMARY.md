@@ -16,7 +16,7 @@
   * [Eerste gebruik portaal](medewerkers/eerste-gebruik-portaal/README.md)
     * [Portaal activeren medewerkers](medewerkers/eerste-gebruik-portaal/portaal-activeren-medewerkers.md)
   * [Gebruik portaal](medewerkers/gebruik-portaal/README.md)
-    * [Inzien terugkoppeling bedrijfsarts of POB](medewerkers/gebruik-portaal/inzien-terugkoppeling-bedrijfsarts-of-pob.md)
+    * [Terugkoppeling van de bedrijfsarts of POB bekijken](medewerkers/gebruik-portaal/terugkoppeling-van-de-bedrijfsarts-of-pob-bekijken.md)
     * [Afspraken inzien](medewerkers/gebruik-portaal/afspraken-inzien.md)
     * [Problemen met het portaal? (Inloggen, gegevens)](medewerkers/gebruik-portaal/problemen-met-het-portaal-inloggen-gegevens.md)
     * [Invullen documenten plan van aanpak](medewerkers/gebruik-portaal/invullen-documenten-plan-van-aanpak.md)
