@@ -2,7 +2,6 @@
 description: >-
   Gebruik je een koppeling met je HR-pakket of verzekeraar? Pas gegevens dan
   altijd aan in je bronsysteem.
-hidden: true
 ---
 
 # Koppelingen met HR-, verzuim- en verzekeraarsystemen
