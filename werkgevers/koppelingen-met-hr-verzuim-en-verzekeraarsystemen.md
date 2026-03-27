@@ -1,72 +1,41 @@
 ---
 description: >-
-  Werk je met een koppeling? Dan pas je medewerker- en verzuimgegevens altijd
-  aan in je bronsysteem.
+  Gebruik je een koppeling met je HR-pakket of verzekeraar? Pas gegevens dan
+  altijd aan in je bronsysteem.
 hidden: true
 ---
 
 # Koppelingen met HR-, verzuim- en verzekeraarsystemen
 
-Werk je met een koppeling? Dan komen gegevens automatisch uit je eigen HR-systeem, verzuimsysteem of het systeem van je verzekeraar naar ZekerArbo Online.
-
 {% hint style="warning" %}
 #### Let op:
 
-Pas gegevens niet alleen in ZekerArbo Online aan. De koppeling overschrijft die wijziging weer met de gegevens uit het bronsysteem.
+Pas gegevens niet alleen in ZekerArbo Online aan. De koppeling overschrijft deze wijzigingen weer met de gegevens uit je bronsysteem.
 {% endhint %}
 
-#### Waar doe je wijzigingen?:
+#### Hoe werkt de koppeling?:
 
-Heb je een koppeling met een HR- of verzuimsysteem? Dan voer je wijzigingen altijd daar door.
+ZekerArbo werkt vaak met negatieve werknemerregistratie. Dat betekent dat we niet je hele personeelsbestand overnemen. Alleen medewerkers met een actuele verzuimmelding komen automatisch in ons systeem. Is een medewerker volledig hersteld? Dan stopt de actuele gegevensuitwisseling voor die persoon.
 
-Is onze arbodienst gekoppeld aan je verzuimverzekering? Meld ziekte, deelherstel en herstel dan via het portaal of systeem van jouw verzekeraar.
+#### Waar pas je gegevens aan?:
 
-Zie je de knoppen **Ziek Melden** of **Hersteld Melden** niet in ZekerArbo Online? Dan loopt de melding via je eigen systeem.
+Bij een actieve koppeling is je HR-pakket of het portaal van je verzekeraar altijd leidend. Pas wijzigingen daarom altijd aan in je bronsysteem.
 
-ZekerArbo Online is in deze situatie niet het bronsysteem, maar ontvangt de gegevens.
+Denk bijvoorbeeld aan:
 
-#### Welke gegevens pas je aan in het bronsysteem?:
+* telefoonnummers;
+* e-mailadressen;
+* nieuwe ziekmeldingen;
+* herstelmeldingen;
+* wijzigingen in dienstverband.
 
-Pas in ieder geval deze gegevens aan in het systeem waar de koppeling vandaan komt:
+Wijzig je deze gegevens alleen in ZekerArbo Online? Dan worden ze bij de volgende synchronisatie weer overschreven.
 
-* persoonsgegevens, zoals naam, geboortedatum en geslacht;
-* contactgegevens, zoals e-mailadres en telefoonnummer;
-* gegevens uit het dienstverband, zoals in dienst, uit dienst, afdeling en leidinggevende;
-* verzuimgegevens, zoals ziekmelding, deelherstel, herstel en andere wijzigingen in het verzuimdossier.
+#### Wat betekent dit voor rapportages?:
 
-Controleer vooral e-mailadres en telefoonnummer goed. Deze gegevens zijn nodig voor berichten en toegang.
+Omdat niet alle medewerkers in ons systeem staan, kunnen wij geen exact verzuimpercentage over je hele organisatie berekenen. De rapportages in ZekerArbo Online zijn alleen gebaseerd op de medewerkers die bij ons geregistreerd staan. Wil je een volledige verzuimanalyse, inclusief percentages? Gebruik dan de rapportages uit je eigen HR- of verzuimsysteem.
 
-#### Negatieve werknemerregistratie: wat betekent dat?:
+#### Ben je gekoppeld aan een verzekeraar?:
 
-Bij sommige koppelingen, vooral via een verzekeraar, ontvangen wij alleen een negatieve werknemerregistratie.
+Is onze arbodienst gekoppeld aan je verzuimverzekering? Meld ziekte of herstel dan niet via ZekerArbo Online. Doe dit altijd via het portaal van je verzekeraar. Wij ontvangen deze meldingen automatisch en gaan er direct mee aan de slag.
 
-Dat betekent dat wij alleen medewerkers binnenkrijgen die verzuimen of hebben verzuimd.
-
-Medewerkers die nog nooit ziek zijn geweest, zijn dan bij ons niet bekend.
-
-#### Gevolg voor rapportages:
-
-Daardoor hebben wij geen volledig beeld van je totale personeelsbestand.
-
-Rapportages die uitgaan van alle medewerkers zijn dan niet volledig.
-
-Verzuimpercentages en andere stuurinformatie kunnen daardoor afwijken of niet correct berekend worden.
-
-{% hint style="info" %}
-#### Goed om te weten:
-
-Wil je betrouwbare rapportages? Zorg dan dat alle relevante gegevens in je bronsysteem actueel zijn en dat duidelijk is welke medewerkers wel en niet via de koppeling worden aangeleverd.
-{% endhint %}
-
-#### Zie je iets niet goed in het portaal?:
-
-Controleer eerst of de gegevens in je bronsysteem kloppen.
-
-Kloppen die daar niet? Pas ze daar aan.
-
-Kloppen die daar wel, maar zie je de wijziging niet terug? Neem dan contact op. Dan kijken we met je mee.
-
-Lees ook:
-
-* [Medewerker (cliënt) bewerken](gebruik-portaal/medewerker-client-bewerken.md)
-* [Verzuimrapportage maken](gebruik-portaal/verzuimrapportage-maken.md)
