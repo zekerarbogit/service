@@ -39,3 +39,6 @@ Omdat niet alle medewerkers in ons systeem staan, kunnen wij geen exact verzuimp
 
 Is onze arbodienst gekoppeld aan je verzuimverzekering? Meld ziekte of herstel dan niet via ZekerArbo Online. Doe dit altijd via het portaal van je verzekeraar. Wij ontvangen deze meldingen automatisch en gaan er direct mee aan de slag.
 
+#### Nog geen koppeling, maar wil je die wel?:
+
+Dat regelen we graag voor je. Neem even contact op met ZekerArbo. Dan kijken we samen welke koppeling past en hoe we dit zonder gedoe voor je inrichten.
