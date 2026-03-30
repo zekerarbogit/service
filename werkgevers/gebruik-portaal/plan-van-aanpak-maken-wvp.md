@@ -12,7 +12,7 @@ Volg deze stappen om het Plan van Aanpak samen met je medewerker te maken:
 2. **Taal en gegevens:** Selecteer de gewenste taal en klik op **Volgende**. Vul vervolgens samen met de medewerker alle velden van het formulier zorgvuldig in.
 
 {% hint style="warning" %}
-Let op! Na het ondertekenen kan het document niet meer aangepast worden. Ook als deze eerst nog wordt aangeboden aan de medewerker via het medewerkersportaal.
+Let op! Na het ondertekenen kan het document niet meer aangepast worden, ook als deze eerst nog wordt aangeboden aan de medewerker via het medewerkersportaal.
 {% endhint %}
 
 3. **Ondertekenen:** Je kunt het document op twee manieren ondertekenen:
@@ -26,7 +26,5 @@ Let op! Na het ondertekenen kan het document niet meer aangepast worden. Ook als
    * Klik daarna op **Afronden** om het Plan van Aanpak definitief in te dienen.
    * _Wil je later verdergaan? Klik dan op het streepje (-)._
 
-{% hint style="info" %}
 
-{% endhint %}
 
