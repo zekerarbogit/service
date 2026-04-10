@@ -5,9 +5,10 @@ description: >-
 hidden: true
 noIndex: true
 noRobotsIndex: true
+icon: bolt
 ---
 
-# Start in het werkgeversportaal
+# Snel aan de slag in het werkgeversportaal
 
 Nieuw in ZekerArbo Online? Start hier. Dan weet je snel waar je moet zijn.
 

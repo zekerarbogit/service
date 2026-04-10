@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Werkgevers](README.md)
-  * [Start in het werkgeversportaal](werkgevers/start-in-het-werkgeversportaal.md)
+  * [Snel aan de slag in het werkgeversportaal](werkgevers/snel-aan-de-slag-in-het-werkgeversportaal.md)
   * [Inloggen](werkgevers/inloggen/README.md)
     * [Inloggen](werkgevers/inloggen/inloggen.md)
     * [Wachtwoord opnieuw instellen](werkgevers/inloggen/wachtwoord-opnieuw-instellen.md)
