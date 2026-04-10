@@ -17,6 +17,7 @@
   * [Gebruik portaal](werkgevers/gebruik-portaal/README.md)
     * [Aanmaken account voor leidinggevende](werkgevers/gebruik-portaal/aanmaken-account-voor-leidinggevende.md)
     * [Autorisaties toekennen leidinggevende](werkgevers/gebruik-portaal/autorisaties-toekennen-leidinggevende.md)
+    * [Verzuimende medewerkers en afspraken vinden](werkgevers/gebruik-portaal/verzuimende-medewerkers-en-afspraken-vinden.md)
     * [E-mail meldingen in- of uitschakelen](werkgevers/gebruik-portaal/e-mail-meldingen-in-of-uitschakelen.md)
     * [Gegevens missen of staan dubbel in het portaal](werkgevers/gebruik-portaal/gegevens-missen-of-staan-dubbel-in-het-portaal.md)
     * [Klantgebruiker verwijderen](werkgevers/gebruik-portaal/klantgebruiker-verwijderen.md)
