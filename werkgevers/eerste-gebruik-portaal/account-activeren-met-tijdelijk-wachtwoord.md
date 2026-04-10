@@ -7,7 +7,7 @@ description: >-
 
 # Account activeren met tijdelijk wachtwoord
 
-{% embed url="https://app.supademo.com/demo/cmiewycjt014e0o0i61lkhvvw" fullWidth="true" %}
+{% @supademo/embed %}
 
 <details>
 
