@@ -26,6 +26,7 @@
     * [Medewerker (cliënt) ziek melden](werkgevers/gebruik-portaal/medewerker-client-ziek-melden.md)
     * [Medewerker (cliënt) deelshersteld melden](werkgevers/gebruik-portaal/medewerker-client-deelshersteld-melden.md)
     * [Medewerker (cliënt) hersteld melden](werkgevers/gebruik-portaal/medewerker-client-hersteld-melden.md)
+    * [Contactmoment, notitie of correctie toevoegen](werkgevers/gebruik-portaal/contactmoment-notitie-of-correctie-toevoegen.md)
     * [Overname taken collega tijdens afwezigheid](werkgevers/gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
     * [Plan van Aanpak maken (WvP)](werkgevers/gebruik-portaal/plan-van-aanpak-maken-wvp.md)
     * [Verzuimprotocol](werkgevers/gebruik-portaal/verzuimprotocol-gaat-automatisch.md)
