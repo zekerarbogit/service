@@ -47,15 +47,27 @@ Zorg dat iedereen de juiste rol heeft.
 {% endstep %}
 
 {% step %}
-#### Doe je eerste acties:
+#### Doe je eerste acties zonder koppeling:
 
-Vanaf het dashboard regel je de meeste dagelijkse acties.
+Werk je zonder HR-, verzuim- of verzekeringskoppeling? Dan regel je deze acties meestal direct vanaf je dashboard.
 
 * [Medewerker (cliënt) toevoegen](gebruik-portaal/medewerker-client-toevoegen.md)
 * [Medewerker (cliënt) ziek melden](gebruik-portaal/medewerker-client-ziek-melden.md)
 * [Medewerker (cliënt) deelshersteld melden](gebruik-portaal/medewerker-client-deelshersteld-melden.md)
 * [Medewerker (cliënt) hersteld melden](gebruik-portaal/medewerker-client-hersteld-melden.md)
 * [Medewerker uit dienst melden](gebruik-portaal/medewerker-uit-dienst-melden.md)
+{% endstep %}
+
+{% step %}
+#### Pak je eerste taken op:
+
+In **Mijn taken** en in het dossier pak je de volgende acties op.
+
+* [Plan van Aanpak maken (WvP)](gebruik-portaal/plan-van-aanpak-maken-wvp.md)
+* [Eerstejaarsevaluatie](gebruik-portaal/eerstejaarsevaluatie.md)
+* [Eindevaluatie](gebruik-portaal/eindevaluatie.md)
+* [26 weeksprognose](gebruik-portaal/26-weeksprognose.md)
+* [Overname taken collega tijdens afwezigheid](gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
 {% endstep %}
 {% endstepper %}
 
