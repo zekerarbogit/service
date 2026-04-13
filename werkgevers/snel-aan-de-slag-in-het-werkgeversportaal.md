@@ -2,9 +2,6 @@
 description: >-
   Nieuw in ZekerArbo Online? Hier zie je hoe het portaal werkt en welke
   handleidingen je nodig hebt om snel te starten.
-hidden: true
-noIndex: true
-noRobotsIndex: true
 icon: bolt
 ---
 
@@ -81,27 +78,27 @@ Hier beheer je gebruikers, rollen en rechten.
 
 * Gebruiker toevoegen met een WG-rol: [Aanmaken account voor leidinggevende](gebruik-portaal/aanmaken-account-voor-leidinggevende.md)
 * Verschil tussen 1 WG, 3 WG, 2 LG en 4 LG: [Uitleg over gebruikersrollen](gebruik-portaal/uitleg-over-gebruikersrollen.md)
-* Rol van een gebruiker wijzigen: (link nog toevoegen)
+* Rol van een gebruiker wijzigen: [Uitleg over gebruikersrollen](gebruik-portaal/uitleg-over-gebruikersrollen.md)
 * Account van een gebruiker verwijderen of beëindigen: [Klantgebruiker verwijderen](gebruik-portaal/klantgebruiker-verwijderen.md)
-* Bedrijf koppelen aan een 1 WG of 3 WG-rol: (link nog toevoegen)
+* Bedrijf koppelen aan een 1 WG of 3 WG-rol: [Uitleg over gebruikersrollen](gebruik-portaal/uitleg-over-gebruikersrollen.md)
 * Werknemers of afdelingen koppelen aan een 2 LG of 4 LG-rol: [Autorisaties toekennen leidinggevende](gebruik-portaal/autorisaties-toekennen-leidinggevende.md)
 
 #### Mijn dossiers:
 
 Hier werk je in het dossier van een verzuimende medewerker.
 
-* Waar zie je verzuimende werknemers: (link nog toevoegen)
-* Waar zie je afspraken: (link nog toevoegen)
-* Waar voeg je een contactmoment of notitie toe: (link nog toevoegen)
+* Waar zie je verzuimende werknemers: [Verzuimende medewerkers en afspraken vinden](gebruik-portaal/verzuimende-medewerkers-en-afspraken-vinden.md)
+* Waar zie je afspraken: [Verzuimende medewerkers en afspraken vinden](gebruik-portaal/verzuimende-medewerkers-en-afspraken-vinden.md)
+* Waar voeg je een contactmoment of notitie toe: [Contactmoment, notitie of correctie toevoegen](gebruik-portaal/contactmoment-notitie-of-correctie-toevoegen.md)
 * Waar vind je een terugkoppeling: [Terugkoppeling van bedrijfsarts of POB](gebruik-portaal/terugkoppeling-van-bedrijfsarts-of-pob.md)
-* Waar vind je het ingevulde Plan van Aanpak terug: (link nog toevoegen)
-* Waar upload je een document: (link nog toevoegen)
+* Waar vind je het ingevulde Plan van Aanpak terug: [Documenten vinden, bekijken en toevoegen](gebruik-portaal/documenten-vinden-bekijken-en-toevoegen.md)
+* Waar upload je een document: [Documenten vinden, bekijken en toevoegen](gebruik-portaal/documenten-vinden-bekijken-en-toevoegen.md)
 
 #### Cliënten:
 
 Hier beheer je medewerkers.
 
-* Waar zie je alle werknemers: (link nog toevoegen)
+* Waar zie je alle werknemers: [Medewerker (cliënt) bewerken](gebruik-portaal/medewerker-client-bewerken.md)
 * Waarom zie je werknemers die al uit dienst zijn: [Koppelingen met HR-, verzuim- en verzekeraarsystemen](koppelingen-met-hr-verzuim-en-verzekeraarsystemen.md)
 * Medewerker toevoegen: [Medewerker (cliënt) toevoegen](gebruik-portaal/medewerker-client-toevoegen.md)
 * Medewerkergegevens aanpassen: [Medewerker (cliënt) bewerken](gebruik-portaal/medewerker-client-bewerken.md)
