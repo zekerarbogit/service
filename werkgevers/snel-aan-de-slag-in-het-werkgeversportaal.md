@@ -52,7 +52,6 @@ Werk je zonder HR-, verzuim- of verzekeringskoppeling? Dan regel je deze acties 
 * [Medewerker (cliënt) ziek melden](gebruik-portaal/medewerker-client-ziek-melden.md)
 * [Medewerker (cliënt) deelshersteld melden](gebruik-portaal/medewerker-client-deelshersteld-melden.md)
 * [Medewerker (cliënt) hersteld melden](gebruik-portaal/medewerker-client-hersteld-melden.md)
-* [Medewerker uit dienst melden](gebruik-portaal/medewerker-uit-dienst-melden.md)
 {% endstep %}
 
 {% step %}
@@ -61,8 +60,6 @@ Werk je zonder HR-, verzuim- of verzekeringskoppeling? Dan regel je deze acties 
 In **Mijn taken** en in het dossier pak je de volgende acties op.
 
 * [Plan van Aanpak maken (WvP)](gebruik-portaal/plan-van-aanpak-maken-wvp.md)
-* [Eerstejaarsevaluatie](gebruik-portaal/eerstejaarsevaluatie.md)
-* [Eindevaluatie](/broken/spaces/hkUne0pNVHithYNGENV4/pages/WW9VjXYLYcFEEWiVafjw)
 * [26 weeksprognose](gebruik-portaal/26-wekenprognose.md)
 * [Overname taken collega tijdens afwezigheid](gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
 {% endstep %}
@@ -90,7 +87,7 @@ Hier werk je in het dossier van een verzuimende medewerker.
 * Waar zie je verzuimende werknemers: [Verzuimende medewerkers en afspraken vinden](gebruik-portaal/verzuimende-medewerkers-en-afspraken-vinden.md)
 * Waar zie je afspraken: [Verzuimende medewerkers en afspraken vinden](gebruik-portaal/verzuimende-medewerkers-en-afspraken-vinden.md)
 * Waar voeg je een contactmoment of notitie toe: [Contactmoment, notitie of correctie toevoegen](gebruik-portaal/contactmoment-notitie-of-correctie-toevoegen.md)
-* Waar vind je een terugkoppeling: [Terugkoppeling van bedrijfsarts of POB](gebruik-portaal/terugkoppeling-van-bedrijfsarts-of-pob.md)
+* Waar vind je een terugkoppeling: [Terugkoppeling van bedrijfsarts of POB](/broken/spaces/hkUne0pNVHithYNGENV4/pages/hc9qjLaXvJvoWC3fZ4Jo)
 * Waar vind je het ingevulde Plan van Aanpak terug: [Documenten vinden, bekijken en toevoegen](gebruik-portaal/documenten-vinden-bekijken-en-toevoegen.md)
 * Waar upload je een document: [Documenten vinden, bekijken en toevoegen](gebruik-portaal/documenten-vinden-bekijken-en-toevoegen.md)
 
@@ -102,7 +99,8 @@ Hier beheer je medewerkers.
 * Waarom zie je werknemers die al uit dienst zijn: [Koppelingen met HR-, verzuim- en verzekeraarsystemen](koppelingen-met-hr-verzuim-en-verzekeraarsystemen.md)
 * Medewerker toevoegen: [Medewerker (cliënt) toevoegen](gebruik-portaal/medewerker-client-toevoegen.md)
 * Medewerkergegevens aanpassen: [Medewerker (cliënt) bewerken](gebruik-portaal/medewerker-client-bewerken.md)
-* Medewerker uit dienst melden: [Medewerker uit dienst melden](gebruik-portaal/medewerker-uit-dienst-melden.md)
+
+
 
 #### Mijn taken:
 
@@ -120,7 +118,6 @@ Hier start je de meest gebruikte acties.
 * Waar meld je een werknemer beter: [Medewerker (cliënt) hersteld melden](gebruik-portaal/medewerker-client-hersteld-melden.md)
 * Waar meld je een werknemer gedeeltelijk beter: [Medewerker (cliënt) deelshersteld melden](gebruik-portaal/medewerker-client-deelshersteld-melden.md)
 * Waar voeg je een werknemer toe: [Medewerker (cliënt) toevoegen](gebruik-portaal/medewerker-client-toevoegen.md)
-* Waar meld je een werknemer uit dienst: [Medewerker uit dienst melden](gebruik-portaal/medewerker-uit-dienst-melden.md)
 
 #### Waarom kan ik iets niet:
 
