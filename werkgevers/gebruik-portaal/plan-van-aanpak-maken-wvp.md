@@ -26,5 +26,9 @@ Let op! Na het ondertekenen kan het document niet meer aangepast worden, ook als
    * Klik daarna op **Afronden** om het Plan van Aanpak definitief in te dienen.
    * _Wil je later verdergaan? Klik dan op het streepje (-)._
 
+{% hint style="warning" %}
+Wanneer de medewerker het Plan van Aanpak niet ondertekend maar jij als werkgever dit wel al hebt gedaan, verwijder dan het Plan van Aanpak en maak een nieuwe.
+{% endhint %}
+
 
 
