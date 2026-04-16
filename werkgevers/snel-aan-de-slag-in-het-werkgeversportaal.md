@@ -40,7 +40,7 @@ Zorg dat iedereen de juiste rol heeft.
 * [Aanmaken account voor leidinggevende](gebruik-portaal/aanmaken-account-voor-leidinggevende.md)
 * [Uitleg over gebruikersrollen](gebruik-portaal/uitleg-over-gebruikersrollen.md)
 * [Autorisaties toekennen leidinggevende](gebruik-portaal/autorisaties-toekennen-leidinggevende.md)
-* [Uitnodiging sturen gebruiker toevoegen](gebruik-portaal/uitnodiging-sturen-gebruiker-toevoegen.md)
+* [Uitnodiging sturen gebruiker toevoegen](/broken/spaces/hkUne0pNVHithYNGENV4/pages/AAjPYGyLUjaxa7kaYIKf)
 {% endstep %}
 
 {% step %}
@@ -62,8 +62,8 @@ In **Mijn taken** en in het dossier pak je de volgende acties op.
 
 * [Plan van Aanpak maken (WvP)](gebruik-portaal/plan-van-aanpak-maken-wvp.md)
 * [Eerstejaarsevaluatie](gebruik-portaal/eerstejaarsevaluatie.md)
-* [Eindevaluatie](gebruik-portaal/eindevaluatie.md)
-* [26 weeksprognose](gebruik-portaal/26-weeksprognose.md)
+* [Eindevaluatie](/broken/spaces/hkUne0pNVHithYNGENV4/pages/WW9VjXYLYcFEEWiVafjw)
+* [26 weeksprognose](gebruik-portaal/26-wekenprognose.md)
 * [Overname taken collega tijdens afwezigheid](gebruik-portaal/overname-taken-collega-tijdens-afwezigheid.md)
 {% endstep %}
 {% endstepper %}
