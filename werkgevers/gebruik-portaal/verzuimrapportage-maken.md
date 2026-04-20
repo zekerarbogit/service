@@ -6,21 +6,29 @@ description: >-
 
 # Verzuimrapportage maken
 
-{% @supademo/embed demoId="cmiok94pq00yz3n0i1q36pp2s" url="https://app.supademo.com/demo/cmiok94pq00yz3n0i1q36pp2s" %}
+{% @supademo/embed url="https://app.supademo.com/demo/cmiok94pq00yz3n0i1q36pp2s" demoId="cmiok94pq00yz3n0i1q36pp2s" %}
 
 #### Belangrijk: Voorwaarde voor juiste cijfers
 
-Voor een correcte rapportage is het noodzakelijk dat alle medewerkers in ZekerArbo Online geregistreerd staan. Wij baseren de rapportages uitsluitend op de data in dit systeem. Verzuim of medewerkers die buiten ZekerArbo Online worden bijgehouden, worden niet meegenomen in de cijfers.
+Voor een goede rapportage gebruiken we alleen gegevens uit ZekerArbo Online. Hebben wij niet jouw volledige werknemerbestand? Dan kun je onder **Vaste waardes** het **aantal medewerkers** en het **aantal FTE** invullen. Zo krijg je alsnog rapportages met bruikbare kerngetallen.
 
-#### Meld je bij een verzekeraar?&#x20;
+#### Meld je bij een verzekeraar of in je eigen HR systeem?
 
-Wij ontvangen alleen gegevens van medewerkers die ziek zijn of in het verleden ziek zijn geweest. Medewerkers die nog nooit verzuim hebben gehad, zijn bij ons niet bekend.
+In veel situaties kennen wij niet jouw volledige werknemerbestand. Wij ontvangen dan meestal alleen gegevens van medewerkers die ziek zijn of ziek zijn geweest.
 
-* Het probleem: Wij weten niet hoeveel medewerkers je in totaal in dienst hebt.
-* Het gevolg: Wij kunnen hierdoor geen verzuimpercentages berekenen.
-* Conclusie: Je rapportages zijn in dit geval onvolledig.
+Medewerkers zonder verzuim zijn dan vaak niet bij ons bekend. Daardoor weten wij niet automatisch:
 
-#### Stappenplan
+* hoeveel medewerkers je in totaal in dienst hebt
+* hoeveel FTE daarbij hoort
+
+Wil je toch goed kunnen rapporteren? Vul dan onder **Vaste waardes** deze gegevens zelf in:
+
+* **Aantal medewerkers**
+* **Aantal FTE**
+
+Zo kan ZekerArbo Online alsnog betere verzuimpercentages en kerngetallen berekenen.
+
+#### Stappenplan:
 
 1. Log in op het verzuimportaal en klik links in het menu op **Rapportages**.
 2. Klik op het keuzemenu (dropdown) en kies voor **Basis verzuimrapportage werkgever**.
@@ -33,5 +41,6 @@ _Tip:_ Wij raden aan om Kerngetallen new en Kerngetallen jaarcijfers te selecter
 
 5. Selecteer de juiste werkgever.
 6. Kies de medewerkers die meegenomen moeten worden (meestal selecteer je hier iedereen).
-7. Scroll terug naar boven en klik op **Genereren**.
-8. Kies het gewenste formaat: Excel, PDF of versturen per E-mail.
+7. Gebruik je negatieve werknemerregistratie of missen niet-verzuimende medewerkers in het systeem? Vul dan onder **Vaste waardes** het **aantal medewerkers** en het **aantal FTE** in.
+8. Scroll terug naar boven en klik op **Genereren**.
+9. Kies het gewenste formaat: Excel, PDF of versturen per e-mail.
