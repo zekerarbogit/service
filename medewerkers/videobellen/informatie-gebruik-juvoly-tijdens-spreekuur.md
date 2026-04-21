@@ -18,6 +18,6 @@ Je privacy is volledig gewaarborgd. We nemen het gesprek namelijk niet op als au
 
 * **Geen opname**: De tool verwerkt de audio in kleine stukjes van slechts 5 seconden op zwaar beveiligde Nederlandse servers. Direct na de verwerking wordt de audio vernietigd.
 * **Binnen de EU**: De verwerking van de samenvatting gebeurt volledig binnen de Europese Unie.
-* **Niets bewaard**: Het transcript (de letterlijke tekst) wordt niet bewaard. Zodra de arts de samenvatting heeft gecontroleerd en goedgekeurd, wordt het transcript definitief verwijderd.
+* **Tijdelijk bewaard**: Het transcript (de letterlijke tekst) wordt maximaal 7 dagen bewaard. Zodra de arts de samenvatting heeft gecontroleerd en goedgekeurd, wordt het transcript definitief verwijderd.
 
 Alleen de gecontroleerde samenvatting komt in jouw medisch dossier. Zo combineren we betere zorg met maximale veiligheid.
